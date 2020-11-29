@@ -1,0 +1,4439 @@
+{
+    "nextOffset": -1,
+    "portalData": [
+        {
+            "guid": "b6ddf325866348898701ed35071ab12f.16",
+            "lat": 53.80027,
+            "lng": -1.759267,
+            "name": "The Bradford Arms"
+        },
+        {
+            "guid": "44935304826d4111b581a4002cce1845.16",
+            "lat": 53.800277,
+            "lng": -1.752496,
+            "name": "Goat Weathervane at Midland Mills"
+        },
+        {
+            "guid": "6d6eb2917ac440238881ecec5c3a5c88.16",
+            "lat": 53.800352,
+            "lng": -1.760266,
+            "name": "Masjid Nimrah"
+        },
+        {
+            "guid": "0e633dcba5054aad8fe31d453ad80a18.16",
+            "lat": 53.800478,
+            "lng": -1.762581,
+            "name": "Pind"
+        },
+        {
+            "guid": "6c30be31be6f412ba9e75d17955fc3f0.11",
+            "lat": 53.800603,
+            "lng": -1.753371,
+            "name": "Light Bulb"
+        },
+        {
+            "guid": "4d0839b4f82a49329cf534af133cd191.16",
+            "lat": 53.800675,
+            "lng": -1.766735,
+            "name": "White Abbey: Saint Mary Magdalene Orthodox Church"
+        },
+        {
+            "guid": "4afb9d25f6e2413f8aca369954a4d33f.16",
+            "lat": 53.800706,
+            "lng": -1.758254,
+            "name": "JKN Institute Mosque"
+        },
+        {
+            "guid": "bd8f1a468e324f4f81bb32058ac379ad.16",
+            "lat": 53.800872,
+            "lng": -1.751292,
+            "name": "Conditioning House"
+        },
+        {
+            "guid": "c3be315fe4684ba6aefa9e6f0c52069f.16",
+            "lat": 53.801095,
+            "lng": -1.744508,
+            "name": "Al-Mahdi Mosque"
+        },
+        {
+            "guid": "71f01ec4bbdb4553b006cbdca0d00396.16",
+            "lat": 53.801097,
+            "lng": -1.762419,
+            "name": "Bradford Reform Synagogue"
+        },
+        {
+            "guid": "89de8ee8961c45968a479dd2f6cbb06e.16",
+            "lat": 53.801111,
+            "lng": -1.758411,
+            "name": "Madinatul Uloom Islamic Centre James Mosque"
+        },
+        {
+            "guid": "8d7aa2d416cd470090ea003f4a526fa5.16",
+            "lat": 53.80193,
+            "lng": -1.785523,
+            "name": "Masjid~E~Umar - Madrassa - Community Centre"
+        },
+        {
+            "guid": "a2a0609c9bb5470197af058dae213d27.16",
+            "lat": 53.801936,
+            "lng": -1.758292,
+            "name": "Thurnscoe Road Playarea"
+        },
+        {
+            "guid": "f7b7d90c99094b5c8d92d85fdf48d945.16",
+            "lat": 53.802666,
+            "lng": -1.742506,
+            "name": "St Augustines Church"
+        },
+        {
+            "guid": "07cfd7ff74794525b62b401a15dbd58e.16",
+            "lat": 53.802718,
+            "lng": -1.758187,
+            "name": "Tawak'kulia Jami Masjad"
+        },
+        {
+            "guid": "54bd1941c9b4453d92ea82557a66fe61.16",
+            "lat": 53.802786,
+            "lng": -1.736867,
+            "name": "Duke Of Edinburgh Center Bradford"
+        },
+        {
+            "guid": "d4bdbf34ad304c6fbe1df923b0314fd9.16",
+            "lat": 53.802852,
+            "lng": -1.761267,
+            "name": "Commercial House"
+        },
+        {
+            "guid": "ee6e2a76aebb4db78473b4b83d02b081.16",
+            "lat": 53.802987,
+            "lng": -1.741808,
+            "name": "Community Works"
+        },
+        {
+            "guid": "0f5c20f5baa04be3ab5530bab053e83d.16",
+            "lat": 53.803101,
+            "lng": -1.739806,
+            "name": "Ghausia Christia Islamic Trust Academy"
+        },
+        {
+            "guid": "999b63bd2d384077bf4ca4f5f7966809.16",
+            "lat": 53.803238,
+            "lng": -1.758409,
+            "name": "Upton Street Playarea"
+        },
+        {
+            "guid": "59bd348269f14a548d39accba8f55cc5.16",
+            "lat": 53.803334,
+            "lng": -1.787133,
+            "name": "Al Mustafa Academy"
+        },
+        {
+            "guid": "4f34cedb7c3d49db83eb9c8dfb9f50cb.16",
+            "lat": 53.803354,
+            "lng": -1.764584,
+            "name": "Markazi Jamia Mosque"
+        },
+        {
+            "guid": "da0d650ff6e24b0daf61f38cc1bad9ef.16",
+            "lat": 53.803384,
+            "lng": -1.789483,
+            "name": "St Philip's Church"
+        },
+        {
+            "guid": "a89dc53668294a43a35c000a64016b53.16",
+            "lat": 53.803444,
+            "lng": -1.73708,
+            "name": "Memorial to Thomas Beaumont, Surgeon. Died October 1859"
+        },
+        {
+            "guid": "f83f492c359440dc896a099744be8318.16",
+            "lat": 53.803461,
+            "lng": -1.762087,
+            "name": "Belle Vue Memorial Foundation Stone"
+        },
+        {
+            "guid": "bbea7ccf7e784bb39fe1b4e1d1975110.16",
+            "lat": 53.803501,
+            "lng": -1.736122,
+            "name": "Memorial To Those Buried In The Cemetery Who Died In WWI Or WWII"
+        },
+        {
+            "guid": "4fa44d5669d549ccbbd1613542304efb.16",
+            "lat": 53.80389,
+            "lng": -1.740236,
+            "name": "Memorial To Joseph Smith A Famous Bradford Land Agent. Died April 1858"
+        },
+        {
+            "guid": "0020d402f3064497917a913c23ed451e.16",
+            "lat": 53.803967,
+            "lng": -1.760567,
+            "name": "Coral Stadium"
+        },
+        {
+            "guid": "741ff9e255ba4927abe127a8bad557c2.16",
+            "lat": 53.803984,
+            "lng": -1.767016,
+            "name": "Central Jamia Mosque"
+        },
+        {
+            "guid": "1618ea72155e485ba0cb3ddf8839767e.16",
+            "lat": 53.804014,
+            "lng": -1.759505,
+            "name": "Bradford City Football Stadium "
+        },
+        {
+            "guid": "df7fbad1aab545c1a076f412d7f52319.16",
+            "lat": 53.804043,
+            "lng": -1.752666,
+            "name": "Consulate of Pakistan Bradford Mosque"
+        },
+        {
+            "guid": "887e25d62f6346db9aba2196779903e4.16",
+            "lat": 53.804126,
+            "lng": -1.738647,
+            "name": "Wagstaff Family Memorial, Undercliffe Cemetery"
+        },
+        {
+            "guid": "6306364de38243e8bf4694b12eed60b1.16",
+            "lat": 53.804184,
+            "lng": -1.736392,
+            "name": "Dedication by Friend of Undercliffe Cemetery"
+        },
+        {
+            "guid": "9f1adaf6514a4423b1875e5506b4d259.16",
+            "lat": 53.804319,
+            "lng": -1.734978,
+            "name": "Memorial to Emma and William Sharp. Died July 1896 and April 1900"
+        },
+        {
+            "guid": "c64c39d3c9fa47c39f19ad925f70ec8d.16",
+            "lat": 53.804362,
+            "lng": -1.735731,
+            "name": "Behrens Family of Bradford, Undercliffe Cemetery"
+        },
+        {
+            "guid": "4281dd9618ce4c6bbfa7be8976e5a607.16",
+            "lat": 53.804372,
+            "lng": -1.760416,
+            "name": "1911 Club"
+        },
+        {
+            "guid": "b43de8f21dc14b3ba6c41f43c374127a.16",
+            "lat": 53.804418,
+            "lng": -1.734359,
+            "name": "Holden Family Grave, Undercliffe Cemetery"
+        },
+        {
+            "guid": "44b64c35c0494001a3ab5aca4c81ef64.16",
+            "lat": 53.804472,
+            "lng": -1.737453,
+            "name": "In Remembrance of Eliza Ann Gadie Lady Mayoress of Bradford 1920-1921"
+        },
+        {
+            "guid": "23fd74f62a56433c989d95409b8136a2.16",
+            "lat": 53.804485,
+            "lng": -1.767313,
+            "name": "Grosvenor Park Play Area"
+        },
+        {
+            "guid": "fdb8d08519aa47adba7a8a04cc4c4c84.16",
+            "lat": 53.804612,
+            "lng": -1.778874,
+            "name": "St Chad's Church"
+        },
+        {
+            "guid": "2604eab11bea4540b0c6271fee3fa089.16",
+            "lat": 53.804759,
+            "lng": -1.773684,
+            "name": "Westgate Baptist Church"
+        },
+        {
+            "guid": "6ff51f1f4c364359a2404d3f3fd547f9.16",
+            "lat": 53.805098,
+            "lng": -1.775785,
+            "name": "The Old Police Tower"
+        },
+        {
+            "guid": "608543586955451eaeff241080f64205.16",
+            "lat": 53.805254,
+            "lng": -1.770961,
+            "name": "Carlisle Place / Lister View Playground"
+        },
+        {
+            "guid": "8c178c2206a04df0b2a799e306b3686b.16",
+            "lat": 53.805366,
+            "lng": -1.738172,
+            "name": "Undercliffe Cemetery Main Gates, Otley Road"
+        },
+        {
+            "guid": "a9788613874b43549bb3cc6d91df8172.16",
+            "lat": 53.805455,
+            "lng": -1.793927,
+            "name": "BRI's King George postbox"
+        },
+        {
+            "guid": "73292bcf2ff842beb4b3693262450b1d.16",
+            "lat": 53.805527,
+            "lng": -1.763782,
+            "name": "King George V Post Box, Manningham Lane"
+        },
+        {
+            "guid": "9fd6bb21d23b4bb9b7927a4da2c7c827.16",
+            "lat": 53.805626,
+            "lng": -1.772525,
+            "name": "Manningham Library"
+        },
+        {
+            "guid": "9ccf046b569542b08071a5af5c4ed54e.16",
+            "lat": 53.805637,
+            "lng": -1.742792,
+            "name": "Treespotter Maze, Peel Park"
+        },
+        {
+            "guid": "126f899ceb3c44b8b84940153d0602e8.16",
+            "lat": 53.805647,
+            "lng": -1.769561,
+            "name": "Manningham: Jamia Madjid Hanfia Mosque"
+        },
+        {
+            "guid": "915a30e5faba476e8ff6291ad85c5475.16",
+            "lat": 53.805695,
+            "lng": -1.767841,
+            "name": "Sunni College Bradford"
+        },
+        {
+            "guid": "abc24245928b4c8aabfd74871c837a3d.16",
+            "lat": 53.805762,
+            "lng": -1.75392,
+            "name": "Uriah Woodhead Clock"
+        },
+        {
+            "guid": "1f21de75b972406097170b8bb2baca3f.16",
+            "lat": 53.805782,
+            "lng": -1.776044,
+            "name": "Springcliffe community garden play area"
+        },
+        {
+            "guid": "0152e39936754c9298624d230d19393c.16",
+            "lat": 53.806009,
+            "lng": -1.742912,
+            "name": "Peel Park Entrance Statue"
+        },
+        {
+            "guid": "f0e75486d34e4d7ca7767a5462804ec0.16",
+            "lat": 53.806243,
+            "lng": -1.743799,
+            "name": "Peel Park Upper Play Area"
+        },
+        {
+            "guid": "85bfb2d602a041f68c434d181d06f155.16",
+            "lat": 53.806279,
+            "lng": -1.761812,
+            "name": "Eesti Kodu Club "
+        },
+        {
+            "guid": "173c5e17edf54002bde23ee650a06880.16",
+            "lat": 53.806301,
+            "lng": -1.743434,
+            "name": "City Of Bradford Centenary"
+        },
+        {
+            "guid": "d2cdc1044e2c4144a1eb6fc130c3cf4f.16",
+            "lat": 53.806391,
+            "lng": -1.789479,
+            "name": "Girlington Little Lane Church"
+        },
+        {
+            "guid": "a9ec16ae05a24cc585d00191e64630ce.16",
+            "lat": 53.80669,
+            "lng": -1.768475,
+            "name": "Masjid Quba Madrasa/Mosque"
+        },
+        {
+            "guid": "0b57644d2a53421aa71c9eb5f0343111.16",
+            "lat": 53.806754,
+            "lng": -1.7439,
+            "name": "Peel Park Gym Equipment"
+        },
+        {
+            "guid": "602515217baf4473a3e5b726ecf99803.16",
+            "lat": 53.806826,
+            "lng": -1.744697,
+            "name": "Totem Trail, The Owl"
+        },
+        {
+            "guid": "e95dc90f2f9c438589974abb4d0bfcb9.16",
+            "lat": 53.806879,
+            "lng": -1.772077,
+            "name": "Parish Church of St. Paul"
+        },
+        {
+            "guid": "37518ca41f644b93bbe2b4be0e23d46e.16",
+            "lat": 53.806909,
+            "lng": -1.742643,
+            "name": "Butterfly Totem"
+        },
+        {
+            "guid": "bc61ba894d54408db3bf16b45ac2a3cd.16",
+            "lat": 53.806931,
+            "lng": -1.780609,
+            "name": "Lillycroft Rd Post Office"
+        },
+        {
+            "guid": "17a9a984934b4e628fe903c2f9cf4d9a.16",
+            "lat": 53.807041,
+            "lng": -1.792606,
+            "name": "Listening Centre for Life Sculpture"
+        },
+        {
+            "guid": "412a19b40001430c803b6d66162a1c1b.16",
+            "lat": 53.807072,
+            "lng": -1.781418,
+            "name": "Trinity Methodist Church"
+        },
+        {
+            "guid": "39a077c6be424f9db2939beb5dfa1c7d.16",
+            "lat": 53.807126,
+            "lng": -1.770919,
+            "name": "Queen Victoria postbox, St Paul's Road"
+        },
+        {
+            "guid": "5e2de4db8f714d34861e0727c58b38ff.16",
+            "lat": 53.807292,
+            "lng": -1.745863,
+            "name": "Peel Park Skate Park"
+        },
+        {
+            "guid": "7fb45e02634a467d9c37efce21ca6942.16",
+            "lat": 53.807341,
+            "lng": -1.750299,
+            "name": "Bradford Ramgarhia Gurdwara Sikh Temple "
+        },
+        {
+            "guid": "2491cc2fe8d949e18f63eece8e88c917.16",
+            "lat": 53.807636,
+            "lng": -1.766217,
+            "name": "Post Box, Manningham Lane"
+        },
+        {
+            "guid": "bededb74c94640838b38e26bc16fa55c.16",
+            "lat": 53.807696,
+            "lng": -1.742244,
+            "name": "Sikh Birthday Plaque"
+        },
+        {
+            "guid": "aa01562b713f4788b2fc16472616767c.16",
+            "lat": 53.807711,
+            "lng": -1.745684,
+            "name": "Sun Dial"
+        },
+        {
+            "guid": "0c6c346b93bb4cca8cd594fffed1a8a9.16",
+            "lat": 53.807842,
+            "lng": -1.744967,
+            "name": "Totem Trail The Deer, Peel Park"
+        },
+        {
+            "guid": "295920aab6d4419cbc1ac7fcc12c880b.16",
+            "lat": 53.808001,
+            "lng": -1.743598,
+            "name": "The Nest, Peel Park"
+        },
+        {
+            "guid": "04c43fe7b74f466f869bb329ba589e26.16",
+            "lat": 53.808008,
+            "lng": -1.766536,
+            "name": "Bolton Royd Lodge"
+        },
+        {
+            "guid": "d3fce343f0064a86b4982cdf3521bf9c.16",
+            "lat": 53.808031,
+            "lng": -1.730547,
+            "name": "Undercliffe: Northcote Conservative Club"
+        },
+        {
+            "guid": "27f3d2d4ca7147939c953df29746e458.16",
+            "lat": 53.808032,
+            "lng": -1.7423,
+            "name": "Hedgehog Totem, Peel Park"
+        },
+        {
+            "guid": "170bc17e6b594c4ebe6de961845d564f.16",
+            "lat": 53.808054,
+            "lng": -1.749175,
+            "name": "Peel Park"
+        },
+        {
+            "guid": "148e1922e8004673b6fa58481dd50c5e.16",
+            "lat": 53.808166,
+            "lng": -1.771387,
+            "name": "Bradford Childrens Hospital 1897"
+        },
+        {
+            "guid": "98b75a542cae4631a264b583816dd683.16",
+            "lat": 53.808259,
+            "lng": -1.746959,
+            "name": "Peel Park Football Field"
+        },
+        {
+            "guid": "b90b0fe7aac44b30a768b60cba936b5b.16",
+            "lat": 53.80828,
+            "lng": -1.744543,
+            "name": "Woodpecker Totem"
+        },
+        {
+            "guid": "7a8d5065cc644fc59b5687f350e14e52.11",
+            "lat": 53.808374,
+            "lng": -1.743534,
+            "name": "Sir Robert Peel"
+        },
+        {
+            "guid": "c8da4fa1ec7d4739b9b40d4d1c471391.16",
+            "lat": 53.808419,
+            "lng": -1.74639,
+            "name": "A Grand View Peel Park"
+        },
+        {
+            "guid": "bce3afdd3e18489daf34d9c9ab8f901e.16",
+            "lat": 53.808459,
+            "lng": -1.740233,
+            "name": "Wildlife Maze, Peel Park"
+        },
+        {
+            "guid": "0646c2b36019487892098e46e40e54a5.11",
+            "lat": 53.808468,
+            "lng": -1.74213,
+            "name": "Spring, Peel Park"
+        },
+        {
+            "guid": "45e796c1d6cd4daf960c03381da748fb.16",
+            "lat": 53.808482,
+            "lng": -1.74413,
+            "name": "Statue of Autumn, Peel Park"
+        },
+        {
+            "guid": "ce254446cbf64c5fa75a605a38e37d98.16",
+            "lat": 53.808724,
+            "lng": -1.73959,
+            "name": "Spider Totem, Peel Park"
+        },
+        {
+            "guid": "33fce6fe63c84126b96f47ad14901e76.16",
+            "lat": 53.808749,
+            "lng": -1.740457,
+            "name": "Peel park bridge plaque"
+        },
+        {
+            "guid": "c1d5460bec7c47ec9d4f17232fdf2604.11",
+            "lat": 53.808798,
+            "lng": -1.777617,
+            "name": "Manningham Mills"
+        },
+        {
+            "guid": "7c547918c86448c1af5ddbb7bf9a9ca4.16",
+            "lat": 53.808823,
+            "lng": -1.7461,
+            "name": "Dragonfly Totem, Peel Park"
+        },
+        {
+            "guid": "2e4e97a0e5ac4c7d8d235391e66fe690.11",
+            "lat": 53.808858,
+            "lng": -1.779974,
+            "name": "Lister's Mill Chimney"
+        },
+        {
+            "guid": "120e0972ad2b4f61a8472abfae8d05a9.16",
+            "lat": 53.809045,
+            "lng": -1.768718,
+            "name": "Oak Lane Post Office"
+        },
+        {
+            "guid": "c98c639ce29a47c5b1bb114899f18d8a.16",
+            "lat": 53.809139,
+            "lng": -1.776199,
+            "name": "Wooden Animals"
+        },
+        {
+            "guid": "0927c49a2ac14adbb24cbd9235da5cbc.16",
+            "lat": 53.809235,
+            "lng": -1.742638,
+            "name": "Peel Park Lower Play Area"
+        },
+        {
+            "guid": "741ae16aaf994f61af91e56a856bb5cf.16",
+            "lat": 53.809284,
+            "lng": -1.767029,
+            "name": "Cartwright hotel Pub"
+        },
+        {
+            "guid": "6e0f5b50e7204605b267de27cb0082bb.16",
+            "lat": 53.809335,
+            "lng": -1.744181,
+            "name": "Bradford Hall Doorway"
+        },
+        {
+            "guid": "a2b833625fc64c20b1d9b3bc6cc03a80.16",
+            "lat": 53.809441,
+            "lng": -1.768449,
+            "name": "Lister Park And Cartwright Hall Map"
+        },
+        {
+            "guid": "af6012f08b3f4486a1560e842536332b.16",
+            "lat": 53.809458,
+            "lng": -1.767874,
+            "name": "Lister Park Gates (Oak Lane)"
+        },
+        {
+            "guid": "d2df79fa4fef4a6b86c9ee6c946449f4.16",
+            "lat": 53.809542,
+            "lng": -1.745391,
+            "name": "The Bug Hotel"
+        },
+        {
+            "guid": "cfd4bf86b55f4dd2a8e4c9e2460239da.11",
+            "lat": 53.809738,
+            "lng": -1.74034,
+            "name": "Band of Hope, Peel Park"
+        },
+        {
+            "guid": "a5b6850aed884ced8d985efa7e21f80d.16",
+            "lat": 53.809937,
+            "lng": -1.786189,
+            "name": "Manningham Mills Sports Association & Community Facility"
+        },
+        {
+            "guid": "2ff5c83989554ce0b0b68110bc78550b.16",
+            "lat": 53.81001,
+            "lng": -1.752754,
+            "name": "Kings/Queens Road Plaque"
+        },
+        {
+            "guid": "2d41e767a8634d8c83bfcfdc83779984.16",
+            "lat": 53.810085,
+            "lng": -1.74446,
+            "name": "Peel Park Rockery"
+        },
+        {
+            "guid": "c36e5f7dd11247359e984bc2c29fcf96.16",
+            "lat": 53.8101,
+            "lng": -1.776622,
+            "name": "Jamia Mosque Tabligh-ul-Islam"
+        },
+        {
+            "guid": "9080474d8e3842d8be08ad954aac3a01.16",
+            "lat": 53.81013,
+            "lng": -1.743989,
+            "name": "Badger Totem"
+        },
+        {
+            "guid": "164bf3dc3a254ee6a2df46235191090f.16",
+            "lat": 53.810162,
+            "lng": -1.743477,
+            "name": "Princess Of Wales Memorial Plaque."
+        },
+        {
+            "guid": "d2e69fe8690d4e07a464a138d44f245d.16",
+            "lat": 53.81024,
+            "lng": -1.740362,
+            "name": "Fox Totem, Peel Park"
+        },
+        {
+            "guid": "fbd7ce3c6caa40dcad3da00fb15a751e.11",
+            "lat": 53.810247,
+            "lng": -1.768527,
+            "name": "Statue of Samuel Lister"
+        },
+        {
+            "guid": "7e0b72529792460e91aa68cb0f2454c7.16",
+            "lat": 53.810354,
+            "lng": -1.745271,
+            "name": "Woodland Maze, Peel Park"
+        },
+        {
+            "guid": "cff10d9bd61644b29b3fa4edbbde3e44.16",
+            "lat": 53.810447,
+            "lng": -1.74491,
+            "name": "Ladybird Totem"
+        },
+        {
+            "guid": "cc664c025e67498cae36b0171ca1a941.16",
+            "lat": 53.810506,
+            "lng": -1.737145,
+            "name": "Frog Totem, Peel Park"
+        },
+        {
+            "guid": "96897c08a7f6426babd9e0c67f3e6687.16",
+            "lat": 53.81053,
+            "lng": -1.733442,
+            "name": "Malt Kiln Inn"
+        },
+        {
+            "guid": "3bf2eed544534cd5971442e893764da1.16",
+            "lat": 53.810553,
+            "lng": -1.745497,
+            "name": "Peel Park Main Gates "
+        },
+        {
+            "guid": "e35074641b7548f2a28ea99b0c8ff053.16",
+            "lat": 53.810567,
+            "lng": -1.76942,
+            "name": "The Recognition Of The Jewish Festival Tub'Shevat"
+        },
+        {
+            "guid": "7a21032011cd4497b3b33d4ff3c451a4.16",
+            "lat": 53.810572,
+            "lng": -1.739387,
+            "name": "Bee Totem, Peel Park"
+        },
+        {
+            "guid": "0c1c80a500714b86a04ad833c2036fa8.16",
+            "lat": 53.810586,
+            "lng": -1.737904,
+            "name": "Yanma, Peel Park"
+        },
+        {
+            "guid": "042c022a43cb4adb8d7c0387f426aac2.16",
+            "lat": 53.810643,
+            "lng": -1.779728,
+            "name": "Lister Mill"
+        },
+        {
+            "guid": "cfd12d76317a4d078ee8985e4df7dfd7.16",
+            "lat": 53.810644,
+            "lng": -1.776417,
+            "name": "Victor Rd War Memorial"
+        },
+        {
+            "guid": "baf5e80f116b4260af4f8a14c3460a32.16",
+            "lat": 53.810764,
+            "lng": -1.745366,
+            "name": "The Bolton Pub"
+        },
+        {
+            "guid": "26d3d8956e8945c7bb28b4a65c252860.16",
+            "lat": 53.810879,
+            "lng": -1.739261,
+            "name": "Beehive Maze, Peel Park"
+        },
+        {
+            "guid": "1cf860fdec0c401f91a42b4ebb0808ad.16",
+            "lat": 53.810913,
+            "lng": -1.771072,
+            "name": "Prince of Wales Gates"
+        },
+        {
+            "guid": "68da87d37aa44670b74b7f8b433576f6.16",
+            "lat": 53.811152,
+            "lng": -1.77043,
+            "name": "Bhopal Workers Memorial"
+        },
+        {
+            "guid": "9099ab8f7c584dfe93e9287e369b0997.16",
+            "lat": 53.811241,
+            "lng": -1.771225,
+            "name": "Lister Park Restoration"
+        },
+        {
+            "guid": "39ef492e004f4a2db3d05da379462288.16",
+            "lat": 53.811417,
+            "lng": -1.778887,
+            "name": "Holy Trinity and Our Lady of Pochav"
+        },
+        {
+            "guid": "b9d9df6c77544380a2236688508687f0.16",
+            "lat": 53.811493,
+            "lng": -1.77136,
+            "name": "Hung to Dry"
+        },
+        {
+            "guid": "18bd23f46d4d48cf99d590ac3ba5b00c.11",
+            "lat": 53.811495,
+            "lng": -1.770529,
+            "name": "Mughal Gardens - Lister Park"
+        },
+        {
+            "guid": "1488bb84a5d042edabd81f978588a51e.16",
+            "lat": 53.811672,
+            "lng": -1.771447,
+            "name": "Hunter Lister Park"
+        },
+        {
+            "guid": "664ecf61d5aa4567af8372f89bdf50c1.16",
+            "lat": 53.811833,
+            "lng": -1.774317,
+            "name": "Welcome To Lister Park & Cartwright Hall Art Gallery "
+        },
+        {
+            "guid": "f842653d25cb41699a685c3e0e1ed5cf.16",
+            "lat": 53.81187,
+            "lng": -1.78071,
+            "name": "Unity Centre"
+        },
+        {
+            "guid": "afd0a0cd99624cd1b6c431a871571217.16",
+            "lat": 53.81194,
+            "lng": -1.772452,
+            "name": "Hochlandbehowner Otmar Alt"
+        },
+        {
+            "guid": "8df48f92adbf45e38f6deb08c1994cef.16",
+            "lat": 53.811971,
+            "lng": -1.771046,
+            "name": "Equilibrium of Opposites"
+        },
+        {
+            "guid": "bb84bde8ceef4e918066019b4176edc9.16",
+            "lat": 53.811989,
+            "lng": -1.771816,
+            "name": "Cartwright Hall Art Gallery"
+        },
+        {
+            "guid": "12795f904e9044c6b9646eb16a31bb6f.16",
+            "lat": 53.812058,
+            "lng": -1.789877,
+            "name": "King George Postbox, Garden Lane"
+        },
+        {
+            "guid": "54bd9091dfe141d4821e7640c77c50a3.16",
+            "lat": 53.812106,
+            "lng": -1.78095,
+            "name": "St Cuthberts Catholic Church"
+        },
+        {
+            "guid": "9a4580db394a428c88960707d6c6c713.11",
+            "lat": 53.812144,
+            "lng": -1.772563,
+            "name": "The Stag, Lister Park"
+        },
+        {
+            "guid": "2836079ff7b447658fd76cbff3172e71.16",
+            "lat": 53.812228,
+            "lng": -1.770808,
+            "name": "Waterfall Steps"
+        },
+        {
+            "guid": "ad6e328af74d4039904e64b9277bd9ed.16",
+            "lat": 53.812228,
+            "lng": -1.742736,
+            "name": "Bolton History Trail"
+        },
+        {
+            "guid": "3c935404d0204c2299627e96a229f220.16",
+            "lat": 53.812275,
+            "lng": -1.769618,
+            "name": "Lister Park Playground"
+        },
+        {
+            "guid": "f966547da83b47c598912caf7d032a4d.16",
+            "lat": 53.812441,
+            "lng": -1.741779,
+            "name": "St James Church, Bolton Road Bradford"
+        },
+        {
+            "guid": "4719a31512084b15b53d1598b59ef529.16",
+            "lat": 53.812539,
+            "lng": -1.774363,
+            "name": "Crown Bowls Clubhouse"
+        },
+        {
+            "guid": "e897e37ccb6245348e4764ea7d1a2e53.16",
+            "lat": 53.812563,
+            "lng": -1.771391,
+            "name": "Sculpture by Sam Shendi"
+        },
+        {
+            "guid": "7f84090dee454cc993f804577f14123c.16",
+            "lat": 53.812572,
+            "lng": -1.781505,
+            "name": "King George V Post Box"
+        },
+        {
+            "guid": "8314e1278ad84750b7f1414ae3713921.16",
+            "lat": 53.812689,
+            "lng": -1.732765,
+            "name": "Undercliffe King George postbox."
+        },
+        {
+            "guid": "adaf2e302bc14b2b963d0f82ff21e2bb.16",
+            "lat": 53.812706,
+            "lng": -1.782954,
+            "name": "Jamia Usmania Educational & Cultural Centre"
+        },
+        {
+            "guid": "6e3be556163b47c9a17872c9777acbbf.16",
+            "lat": 53.812969,
+            "lng": -1.770663,
+            "name": "Lister Park Lions "
+        },
+        {
+            "guid": "f492dce584594ea2bc930591b43f7490.11",
+            "lat": 53.813104,
+            "lng": -1.773004,
+            "name": "Bandstand - Lister Park"
+        },
+        {
+            "guid": "f1751636b5654ae89fe9bde7335c5a12.16",
+            "lat": 53.813144,
+            "lng": -1.782147,
+            "name": "Heaton Township Notice Board"
+        },
+        {
+            "guid": "799f2776ea9a4e63aaaa4aa6373eb764.16",
+            "lat": 53.813228,
+            "lng": -1.784036,
+            "name": "Waterfall in the Wall"
+        },
+        {
+            "guid": "97430768339644ec9226d0077565d581.16",
+            "lat": 53.813234,
+            "lng": -1.775752,
+            "name": "Lister Park tennis courts"
+        },
+        {
+            "guid": "9b6cf3e1dfa2435aa4c8b731a7a13550.16",
+            "lat": 53.813457,
+            "lng": -1.771046,
+            "name": "Lister Park Boating Pavilion"
+        },
+        {
+            "guid": "6763fb0ab7e9475c8aa7967f2d71ffb0.16",
+            "lat": 53.813486,
+            "lng": -1.78403,
+            "name": "Jamia Usmania mosque"
+        },
+        {
+            "guid": "ec248d73593b4e2f872c1982ff0232d0.16",
+            "lat": 53.813506,
+            "lng": -1.782852,
+            "name": "Heaton Township Notice Board"
+        },
+        {
+            "guid": "88e298a42f1744a9aa3e275e97c4d238.16",
+            "lat": 53.813579,
+            "lng": -1.773941,
+            "name": "Weather Station - Lister Park"
+        },
+        {
+            "guid": "42ad574091754bc6a6ee4858beaa2e80.16",
+            "lat": 53.813626,
+            "lng": -1.770263,
+            "name": "Cycling Painting On The Wall"
+        },
+        {
+            "guid": "88306c0d4dab45e5902308a291d32308.16",
+            "lat": 53.814018,
+            "lng": -1.777078,
+            "name": "Lister Park Rock Garden"
+        },
+        {
+            "guid": "56c9720031ae42a6a5fa4b3cee52cd6d.16",
+            "lat": 53.814056,
+            "lng": -1.733088,
+            "name": "Upper Bolton Conservative & Social Club"
+        },
+        {
+            "guid": "1b576d0dd6fa4deea29f6894e82a667c.16",
+            "lat": 53.814341,
+            "lng": -1.731637,
+            "name": "Milners Arms"
+        },
+        {
+            "guid": "42a172f0a09b4b4ebacad80c6f599ca7.16",
+            "lat": 53.814411,
+            "lng": -1.776737,
+            "name": "Lister Park Botanical Gardens"
+        },
+        {
+            "guid": "c97c1de82f3c458fae6d7eb7a8e8b973.16",
+            "lat": 53.814437,
+            "lng": -1.777399,
+            "name": "Sensory Garden "
+        },
+        {
+            "guid": "7cba8f861fab46409312eefbba575515.16",
+            "lat": 53.814567,
+            "lng": -1.776421,
+            "name": "Sedimentary Rock Garden"
+        },
+        {
+            "guid": "a227fd072fbc4a6cb90ea4ed810040df.11",
+            "lat": 53.814577,
+            "lng": -1.775209,
+            "name": "Fossil Tree - Lister Park"
+        },
+        {
+            "guid": "9e387a32291c4a38ac040be89c39e67c.16",
+            "lat": 53.814937,
+            "lng": -1.731512,
+            "name": "Mayoral Stone"
+        },
+        {
+            "guid": "49b4c1e83370481aaa57a44eb53e2a8c.16",
+            "lat": 53.815124,
+            "lng": -1.77907,
+            "name": "Lister Park Gates (Emm Lane Entrance)"
+        },
+        {
+            "guid": "c01eab6d0aa841c49bb99b8af113a672.16",
+            "lat": 53.815167,
+            "lng": -1.788395,
+            "name": "Heaton Tennis and Squash Club"
+        },
+        {
+            "guid": "bd03b57b3f474ecbaf33c2264ba4f1f4.11",
+            "lat": 53.815171,
+            "lng": -1.773285,
+            "name": "Statue of Sir Titus Salt, Lister Park"
+        },
+        {
+            "guid": "72b27017e4474e50a3c818240054a6f3.16",
+            "lat": 53.815297,
+            "lng": -1.788816,
+            "name": "Heaton tennis court"
+        },
+        {
+            "guid": "58da4a386271498f814c67bd19c03d0b.11",
+            "lat": 53.815475,
+            "lng": -1.772949,
+            "name": "Archway - Lister Park"
+        },
+        {
+            "guid": "0c14ed70b0b04e0ea8400fbafbc471e2.16",
+            "lat": 53.815477,
+            "lng": -1.771772,
+            "name": "Frizinghall Road GR Postbox"
+        },
+        {
+            "guid": "dcf0dcec16f143939463a7ce774d81d3.16",
+            "lat": 53.815625,
+            "lng": -1.785417,
+            "name": "Heaton Post Office"
+        },
+        {
+            "guid": "8aee139b1ee74822b1b3fec8423ace08.16",
+            "lat": 53.815816,
+            "lng": -1.773108,
+            "name": "The Turf Public House"
+        },
+        {
+            "guid": "1b0f4ec6443a4f29a6af2494c7518f4b.16",
+            "lat": 53.816067,
+            "lng": -1.788689,
+            "name": "Heaton Township Notice Board"
+        },
+        {
+            "guid": "cc667d16d2a6455a8a50c17ecbfbd2cc.16",
+            "lat": 53.816177,
+            "lng": -1.734475,
+            "name": "Bolton Junction Bolton Methodist Church"
+        },
+        {
+            "guid": "b284ec96f2ff41daa95586e92e45b217.16",
+            "lat": 53.816256,
+            "lng": -1.785356,
+            "name": "Rossefield Hall"
+        },
+        {
+            "guid": "169a1572b587492aaf04175b0862242d.16",
+            "lat": 53.816301,
+            "lng": -1.776529,
+            "name": "Bradford School of Management"
+        },
+        {
+            "guid": "266dafab59d54f7f8dfbf43d5220b434.16",
+            "lat": 53.816785,
+            "lng": -1.740074,
+            "name": "Hole in the wall postbox"
+        },
+        {
+            "guid": "08d4ff1daed24330bcefe9318cb2964f.16",
+            "lat": 53.816795,
+            "lng": -1.784873,
+            "name": "St. Barnabas Village Hall"
+        },
+        {
+            "guid": "9b5a913ecceb4e388ac75aa36112b589.16",
+            "lat": 53.816815,
+            "lng": -1.78452,
+            "name": "St Barnabas Church"
+        },
+        {
+            "guid": "e7e7134d084746249a3472c823f6237a.16",
+            "lat": 53.817175,
+            "lng": -1.730724,
+            "name": "Eccleshill Library and Information Centre"
+        },
+        {
+            "guid": "84b37a1c602c46aca1c73d52c13723aa.16",
+            "lat": 53.817211,
+            "lng": -1.788114,
+            "name": "Heaton Play Area"
+        },
+        {
+            "guid": "a99ce73ad564490ca30f5d701b95fe39.16",
+            "lat": 53.817603,
+            "lng": -1.748178,
+            "name": "Horse and Farrier pub"
+        },
+        {
+            "guid": "f212e0100a3c46b9947e95f0fa7b0836.16",
+            "lat": 53.817857,
+            "lng": -1.76732,
+            "name": "Rasping Gargoyle"
+        },
+        {
+            "guid": "bfaee885656444a3b6764a1b747e1310.16",
+            "lat": 53.81791,
+            "lng": -1.734622,
+            "name": "The Swing Gate Pub"
+        },
+        {
+            "guid": "766c8234a5874ae2b38cbd0a712fb8ba.16",
+            "lat": 53.817924,
+            "lng": -1.787382,
+            "name": "Heaton Allotment Association"
+        },
+        {
+            "guid": "0236f6744d4e4bbf9d170d82f4b44d4a.16",
+            "lat": 53.818481,
+            "lng": -1.762177,
+            "name": "Bolton Woods: Old Wesleyan Methodist Church"
+        },
+        {
+            "guid": "b9282d3b5f3a45ea87953e4281a09958.16",
+            "lat": 53.818743,
+            "lng": -1.770487,
+            "name": "The Black Swan Public House"
+        },
+        {
+            "guid": "c5390044574748eabb6b2d488e6a106f.16",
+            "lat": 53.818765,
+            "lng": -1.764893,
+            "name": "Bolton Woods Playing Fields"
+        },
+        {
+            "guid": "e8601322f8524815b2444a9243671918.11",
+            "lat": 53.819552,
+            "lng": -1.761477,
+            "name": "The New VIC"
+        },
+        {
+            "guid": "207cf0a3908e40629a9e913ea8a1f4d2.16",
+            "lat": 53.819671,
+            "lng": -1.782635,
+            "name": "Renold Wood"
+        },
+        {
+            "guid": "7c4e8f1b5c8b4a38ae8a4c4f0a890bbe.16",
+            "lat": 53.81969,
+            "lng": -1.762759,
+            "name": "Bolton Woods War Memorial"
+        },
+        {
+            "guid": "7b2fd08f2330479e90ac77a987493e6b.16",
+            "lat": 53.819773,
+            "lng": -1.763257,
+            "name": "Bolton Woods & District Community Centre"
+        },
+        {
+            "guid": "49886fa4ce324ac8a6400fb780039780.16",
+            "lat": 53.819777,
+            "lng": -1.762353,
+            "name": "Bolton Woods Park Entry"
+        },
+        {
+            "guid": "2bee1ad10f984266ad9a0046aa98d115.16",
+            "lat": 53.819856,
+            "lng": -1.764156,
+            "name": "Bolton Woods Junior FC Sign"
+        },
+        {
+            "guid": "00c6b01e2ace42199f5f0778ec4d07ab.16",
+            "lat": 53.82037,
+            "lng": -1.735685,
+            "name": "George V pillar box"
+        },
+        {
+            "guid": "9baff074acc64728ae63575d6e02aa1a.16",
+            "lat": 53.820378,
+            "lng": -1.769299,
+            "name": "Frizinghall Railway Station"
+        },
+        {
+            "guid": "e2e04d19976b4b9e80018b166855968a.16",
+            "lat": 53.820457,
+            "lng": -1.762142,
+            "name": "Bolton Woods Park Playground"
+        },
+        {
+            "guid": "40f04ae1446b4d418ac3e1c5ffb62460.16",
+            "lat": 53.820797,
+            "lng": -1.774652,
+            "name": "Shipley Islamic Education Centre"
+        },
+        {
+            "guid": "a9b90723a7b74a1fa0b41983a231eb3b.16",
+            "lat": 53.82093,
+            "lng": -1.76013,
+            "name": "Bolton Woods Social Club"
+        },
+        {
+            "guid": "afda5fc4895c4b4197fb1dd0bf7ccd08.16",
+            "lat": 53.820951,
+            "lng": -1.775352,
+            "name": "Frizinghall Post Office"
+        },
+        {
+            "guid": "3e83ed985b2f4ec6bcf24905f06b9f2c.16",
+            "lat": 53.820978,
+            "lng": -1.748089,
+            "name": "Greenwood Youth Centre"
+        },
+        {
+            "guid": "0f68458a4411404b954de7b31b2a74f1.16",
+            "lat": 53.821039,
+            "lng": -1.787902,
+            "name": "The Heaton Woods Trust"
+        },
+        {
+            "guid": "54dc911e1b5540ed961b3b946846bd9e.16",
+            "lat": 53.821166,
+            "lng": -1.781789,
+            "name": "The Heaton Woods Trust Sign Post"
+        },
+        {
+            "guid": "4f2a61839c8241e786056bd29cd1e3c5.16",
+            "lat": 53.821229,
+            "lng": -1.784191,
+            "name": "Heaton Woods Play Area"
+        },
+        {
+            "guid": "3aa087d1f0434b74ba4b9ebc696057f7.16",
+            "lat": 53.821231,
+            "lng": -1.743898,
+            "name": "Kings road postbox"
+        },
+        {
+            "guid": "21a5ca9e1df04694b7fa81231c90311e.16",
+            "lat": 53.821299,
+            "lng": -1.783665,
+            "name": "Rosse Woods"
+        },
+        {
+            "guid": "e5402096d31a41f199410f1f0ff778cd.16",
+            "lat": 53.821619,
+            "lng": -1.783499,
+            "name": "Sean's Ponds"
+        },
+        {
+            "guid": "b1ee84de0e39426396809f062db55fcc.16",
+            "lat": 53.821634,
+            "lng": -1.776454,
+            "name": "The New Church"
+        },
+        {
+            "guid": "0bca5f0b14854967953a379604eacfd0.16",
+            "lat": 53.82192,
+            "lng": -1.774321,
+            "name": "Jamia Masjid Shan-E-Islam"
+        },
+        {
+            "guid": "1631ac4a916841bea4381098e4da8a08.16",
+            "lat": 53.822589,
+            "lng": -1.78368,
+            "name": "Welcome to Heaton Woods Trust"
+        },
+        {
+            "guid": "a8e8ac2d6953457fa4b85cf5126729e9.16",
+            "lat": 53.822599,
+            "lng": -1.771602,
+            "name": "Frizinghall Community Centre"
+        },
+        {
+            "guid": "5034f9771a6e48c699e3c9734ca837b5.16",
+            "lat": 53.82292,
+            "lng": -1.773947,
+            "name": "Shipley Fields GR Postbox"
+        },
+        {
+            "guid": "991856c3034148ad91e42f31d85ea42b.16",
+            "lat": 53.823091,
+            "lng": -1.764449,
+            "name": "Owlet Hall Social Club"
+        },
+        {
+            "guid": "112cb0ce09a342468a58b25987338e5f.16",
+            "lat": 53.823162,
+            "lng": -1.760479,
+            "name": "Gaisby Mount Road GVIR Wallbox"
+        },
+        {
+            "guid": "05ba8fa28ba5403eaff0774eee295023.16",
+            "lat": 53.82327,
+            "lng": -1.730003,
+            "name": "Edward VII postbox on Norman Lane"
+        },
+        {
+            "guid": "99a2624f9e2047b9b2d7c1a70bad5c72.16",
+            "lat": 53.82334,
+            "lng": -1.77306,
+            "name": "Frizinghall St Margarets Church"
+        },
+        {
+            "guid": "104c17a1fa0846b9acc556b37e5a350d.16",
+            "lat": 53.823367,
+            "lng": -1.730826,
+            "name": "Eccleshill Methodist Church"
+        },
+        {
+            "guid": "fabbeeb14d174ca4af1ea8cb0269529f.16",
+            "lat": 53.823402,
+            "lng": -1.736469,
+            "name": "Lane Ends Pub"
+        },
+        {
+            "guid": "d7365711d5174fef9a910000e3a03f4e.16",
+            "lat": 53.823426,
+            "lng": -1.772122,
+            "name": "Shipley Fields Road Play Area"
+        },
+        {
+            "guid": "98187cd8598f460594eeb696d0aa3a75.16",
+            "lat": 53.823553,
+            "lng": -1.734452,
+            "name": "St Francis of Assisi Catholic Church"
+        },
+        {
+            "guid": "22e05134dc9248edb72417b2e7f7b18c.16",
+            "lat": 53.823808,
+            "lng": -1.745722,
+            "name": "Malachi Whitaker plaque"
+        },
+        {
+            "guid": "50dc322dfb3f4b449ee3678306a08e77.16",
+            "lat": 53.823814,
+            "lng": -1.732456,
+            "name": "Jowett car brick artistic mural"
+        },
+        {
+            "guid": "839477dccf7545eab50feba76c612dc2.16",
+            "lat": 53.824655,
+            "lng": -1.736884,
+            "name": "Five Lane Ends Post Office"
+        },
+        {
+            "guid": "728b98362d104c7d852d24c813506f88.16",
+            "lat": 53.825026,
+            "lng": -1.784911,
+            "name": "Northcliffe Park Miniature Railway "
+        },
+        {
+            "guid": "e02bd4d5b5684ce0b8997c7e67058d31.16",
+            "lat": 53.825047,
+            "lng": -1.742727,
+            "name": "St Cuthberts Church"
+        },
+        {
+            "guid": "0d8458caa2c84255a78f0674d7d827c8.16",
+            "lat": 53.825522,
+            "lng": -1.78429,
+            "name": "Northcliffe Allotment Society"
+        },
+        {
+            "guid": "00a43cdea11c49b7962d31cd35c17214.16",
+            "lat": 53.825552,
+            "lng": -1.735086,
+            "name": "Church on the Way"
+        },
+        {
+            "guid": "d930f9042a8a46388408d66a7098944a.16",
+            "lat": 53.825559,
+            "lng": -1.744373,
+            "name": "Bolton Villas Church"
+        },
+        {
+            "guid": "6bca66b06db94c719d3ecc503d60f09d.16",
+            "lat": 53.825732,
+            "lng": -1.779275,
+            "name": "King George V Postbox, Bradford Road"
+        },
+        {
+            "guid": "c15b0c2872d249c1be365a033ed3992f.16",
+            "lat": 53.825836,
+            "lng": -1.781882,
+            "name": "Northcliffe Park Community Noticeboard"
+        },
+        {
+            "guid": "282d3e7710b446529000321bc07caeb9.16",
+            "lat": 53.82586,
+            "lng": -1.781024,
+            "name": "Bradford MES & Friends Of Northcliffe Notice Board"
+        },
+        {
+            "guid": "83d10673af664b9eb5c8f7f63aefa979.16",
+            "lat": 53.825862,
+            "lng": -1.772672,
+            "name": "Wharncliffe Road GVIR Pillarbox"
+        },
+        {
+            "guid": "74c592367fa74a06aa51d9b83ae1596c.16",
+            "lat": 53.826021,
+            "lng": -1.785491,
+            "name": "Friends Of Northcliffe Bird Feeding Area"
+        },
+        {
+            "guid": "ba964e3110214c9d95cf51eeb187b786.16",
+            "lat": 53.826323,
+            "lng": -1.785993,
+            "name": "Northcliffe Allotment Top Site Community Noticeboard"
+        },
+        {
+            "guid": "a38c362a74fd42bf8246c15067c36da9.16",
+            "lat": 53.826384,
+            "lng": -1.779167,
+            "name": "Birthplace of Author Leo Walmsley Plaque"
+        },
+        {
+            "guid": "7168ce91e4924095ae5a2cc9f4eb52a9.16",
+            "lat": 53.826496,
+            "lng": -1.769799,
+            "name": "Crag Road Methodist Church "
+        },
+        {
+            "guid": "246f9e6ef00f4fe5b40d822ee7bcb989.16",
+            "lat": 53.826705,
+            "lng": -1.763737,
+            "name": "Dennison Woods map"
+        },
+        {
+            "guid": "d80f87de9f3449ebaf10af83ed7051b8.16",
+            "lat": 53.826723,
+            "lng": -1.747954,
+            "name": "Wrose Road George VI postbox."
+        },
+        {
+            "guid": "ac6d07f44c474338889aeea5f9504fdf.16",
+            "lat": 53.826779,
+            "lng": -1.793931,
+            "name": "Northcliffe Park Woodland Nature Trail"
+        },
+        {
+            "guid": "bb2d2fb767c84408bb7aa768ee4b1633.16",
+            "lat": 53.826865,
+            "lng": -1.749847,
+            "name": "Wrose park outdoor gym"
+        },
+        {
+            "guid": "71bc0d01f6954b109352261740976886.16",
+            "lat": 53.826885,
+            "lng": -1.779716,
+            "name": "Former Shipley Grange Entrance Posts"
+        },
+        {
+            "guid": "3ce95f3648614cddbff018ce1ce8f01e.16",
+            "lat": 53.826999,
+            "lng": -1.750241,
+            "name": "Claremont rec health board."
+        },
+        {
+            "guid": "c659feb6342745ca94ce9bbbd3b53b9a.16",
+            "lat": 53.827073,
+            "lng": -1.737851,
+            "name": "The Highfield Pub & Restaurant"
+        },
+        {
+            "guid": "37f52ad470dc456a902e896cffcf5a9c.16",
+            "lat": 53.827137,
+            "lng": -1.773471,
+            "name": "Bradford Arms Hotel And Freehouse"
+        },
+        {
+            "guid": "6bd2208788084b189a918ab888975ab0.16",
+            "lat": 53.827349,
+            "lng": -1.733056,
+            "name": "Play area"
+        },
+        {
+            "guid": "d611fe0e6a834943957d9900d40c6868.16",
+            "lat": 53.827575,
+            "lng": -1.78797,
+            "name": "Northcliffe Park Playing Field"
+        },
+        {
+            "guid": "7da9e2c24c9441d980ebd478b956d246.16",
+            "lat": 53.827614,
+            "lng": -1.780265,
+            "name": "The Shipley Club"
+        },
+        {
+            "guid": "8912218c21794f819dbae60761b8ba7a.16",
+            "lat": 53.827718,
+            "lng": -1.745586,
+            "name": "Eccleshill football club."
+        },
+        {
+            "guid": "39c37ff7efae4268ba1d82961ce1bc6d.16",
+            "lat": 53.827764,
+            "lng": -1.776953,
+            "name": "Red Beck Allotments Noticeboard"
+        },
+        {
+            "guid": "c40eb4a9be414c34931317a0d15ed541.16",
+            "lat": 53.82779,
+            "lng": -1.765398,
+            "name": "Hollin Lane Playground"
+        },
+        {
+            "guid": "8181f791f581413c86750cbac224fa91.16",
+            "lat": 53.827806,
+            "lng": -1.785167,
+            "name": "Northcliffe Park Playground"
+        },
+        {
+            "guid": "04213892cfe64aeea96618cc2944062b.16",
+            "lat": 53.827954,
+            "lng": -1.782491,
+            "name": "Northcliffe Park Play Area"
+        },
+        {
+            "guid": "71fb804944124c439d0f35322da368c3.16",
+            "lat": 53.827981,
+            "lng": -1.785036,
+            "name": "Northcliffe Park Meadow"
+        },
+        {
+            "guid": "20cc694c1c8a4438a21b661aaf6352fb.16",
+            "lat": 53.828045,
+            "lng": -1.780147,
+            "name": "The Branch Pub"
+        },
+        {
+            "guid": "ebbb5c78ac4343278804d38838c478b0.16",
+            "lat": 53.828076,
+            "lng": -1.741426,
+            "name": "Bolton Villas Cricket Club"
+        },
+        {
+            "guid": "bd36532dfd7e4ade9818e7bf48a61de1.16",
+            "lat": 53.828144,
+            "lng": -1.732153,
+            "name": "The Springfield Hotel"
+        },
+        {
+            "guid": "314dc5ce61be4a06ae02797287ffb813.16",
+            "lat": 53.82819,
+            "lng": -1.762403,
+            "name": "Wrose Stone"
+        },
+        {
+            "guid": "871c2844895b4e55bf241e2300eb3923.16",
+            "lat": 53.828258,
+            "lng": -1.768808,
+            "name": "Fair Bank Play Area"
+        },
+        {
+            "guid": "94f3ac9ac52c41d78d2f879032d46b63.16",
+            "lat": 53.828325,
+            "lng": -1.779135,
+            "name": "Bargrange Avenue Entrance Posts"
+        },
+        {
+            "guid": "22738d76c4544d97a35cbdef908167af.16",
+            "lat": 53.828403,
+            "lng": -1.782175,
+            "name": "Northcliffe Park Tennis Courts"
+        },
+        {
+            "guid": "b2f8b6127abb4bbabca6ba296fb74e29.16",
+            "lat": 53.828445,
+            "lng": -1.780867,
+            "name": "Northcliffe Park Gates"
+        },
+        {
+            "guid": "22ec91d86b9f43ca9b226d24a7af6ed8.16",
+            "lat": 53.828469,
+            "lng": -1.782934,
+            "name": "Northcliffe Park Bowling Green"
+        },
+        {
+            "guid": "618da3027de3411993f4d686496e054e.16",
+            "lat": 53.828583,
+            "lng": -1.754659,
+            "name": "Wrose Methodist Church"
+        },
+        {
+            "guid": "5f40a31ca1bc46c080a90d8691c05922.16",
+            "lat": 53.82882,
+            "lng": -1.777925,
+            "name": "Red Beck Allotment Society"
+        },
+        {
+            "guid": "d3f775a47ade47d587f5d35adb740b93.16",
+            "lat": 53.828871,
+            "lng": -1.75847,
+            "name": "Wrose Post Office"
+        },
+        {
+            "guid": "5e4810890d574549b08b608e2b152e20.16",
+            "lat": 53.828914,
+            "lng": -1.760986,
+            "name": "Wrose Bull Pub"
+        },
+        {
+            "guid": "4f18a9cb3dbb4f7ba7271c7e5e43d676.16",
+            "lat": 53.828916,
+            "lng": -1.756854,
+            "name": "Wrose Library"
+        },
+        {
+            "guid": "4520c3363eee4df1a617ad070f9a3752.16",
+            "lat": 53.828936,
+            "lng": -1.7572,
+            "name": "Old 1900s family pub"
+        },
+        {
+            "guid": "5bf789cd68c04246a113a16b250b3667.16",
+            "lat": 53.829071,
+            "lng": -1.762097,
+            "name": "Highcroft Youth & Community Centre"
+        },
+        {
+            "guid": "f68fa6308ad44e94b06e7c955cdc5f7b.16",
+            "lat": 53.829689,
+            "lng": -1.78146,
+            "name": "Northcliffe Church"
+        },
+        {
+            "guid": "53832ec391b84b73826da2351f3bd0df.16",
+            "lat": 53.829775,
+            "lng": -1.761039,
+            "name": "Wrose Hill Chapel"
+        },
+        {
+            "guid": "957148a904214342aa226b3c1b9c151a.16",
+            "lat": 53.829865,
+            "lng": -1.781054,
+            "name": "Northcliffe Church Community Hall"
+        },
+        {
+            "guid": "db811ac9406b431780cdacb1b2c6b8e7.16",
+            "lat": 53.830748,
+            "lng": -1.781479,
+            "name": "Shipley Central Park Noticeboard"
+        },
+        {
+            "guid": "a04dd11dbcca48c2ab461fb866bbddb5.16",
+            "lat": 53.830765,
+            "lng": -1.776623,
+            "name": "Shipley, Oddfellows' Hall"
+        },
+        {
+            "guid": "a41e971a30b14fc6949db3800c219a97.16",
+            "lat": 53.830813,
+            "lng": -1.782001,
+            "name": "Shipley Central Park Outdoor Gym"
+        },
+        {
+            "guid": "bac86f9e8b63449a90ca3cc4f1f245c3.16",
+            "lat": 53.830872,
+            "lng": -1.783487,
+            "name": "Markaz Al-Furqaan Mosque"
+        },
+        {
+            "guid": "98bbcaa0344848e3851db0a84fc70c57.16",
+            "lat": 53.830896,
+            "lng": -1.747358,
+            "name": "Wall box bearing the royal cypher of king George"
+        },
+        {
+            "guid": "ecefaaee25274f0e8328c5ddc482355f.16",
+            "lat": 53.830963,
+            "lng": -1.780465,
+            "name": "Westcliffe Road Methodist Chapel"
+        },
+        {
+            "guid": "94eaddc8f66140e499a0820c1eddfd49.16",
+            "lat": 53.831033,
+            "lng": -1.783669,
+            "name": "Former Shipley United Reformed Church"
+        },
+        {
+            "guid": "4810cf9b12ec4a73af77192e05ccb61d.16",
+            "lat": 53.83107,
+            "lng": -1.781856,
+            "name": "Creation And Development Of Shipley Park"
+        },
+        {
+            "guid": "9631dc15e897449aa0ab378d18efddee.16",
+            "lat": 53.831174,
+            "lng": -1.783245,
+            "name": "Drakes"
+        },
+        {
+            "guid": "b4d89100f859498082a87a806218c0a3.16",
+            "lat": 53.831264,
+            "lng": -1.780349,
+            "name": "Anchorage Activity Club Shipley"
+        },
+        {
+            "guid": "d5d4ab2291ce47ea8befd3aa6f66336a.16",
+            "lat": 53.831459,
+            "lng": -1.783584,
+            "name": "Centre For Spiritual Discovery"
+        },
+        {
+            "guid": "6124a71d34a04a8b976981721b7fcc62.16",
+            "lat": 53.8315,
+            "lng": -1.782204,
+            "name": "Shipley Central Park Playground"
+        },
+        {
+            "guid": "e0a8873b28b64a448378e9ff2888e61e.16",
+            "lat": 53.831535,
+            "lng": -1.781784,
+            "name": "Hale 2005 Mosaic"
+        },
+        {
+            "guid": "652f117a808e46109ff78d276d24b498.16",
+            "lat": 53.831777,
+            "lng": -1.778901,
+            "name": "Shipley Telephone Exchange"
+        },
+        {
+            "guid": "7e939d92fed44f8cb9119c9eedc5a60c.16",
+            "lat": 53.831778,
+            "lng": -1.782405,
+            "name": "Shipley Central Park Table Tennis Table"
+        },
+        {
+            "guid": "a554126fcb4d4ac3b7e5fbbb2a8c5ce9.16",
+            "lat": 53.832041,
+            "lng": -1.780349,
+            "name": "Shipley 9/11 Memorial"
+        },
+        {
+            "guid": "8d6d1303d0b2461d89a1d4936d9b3bb3.16",
+            "lat": 53.832123,
+            "lng": -1.7336,
+            "name": "Christ Church Bradford"
+        },
+        {
+            "guid": "9d232c666fa24bedb8f8fde1628ab49d.16",
+            "lat": 53.832134,
+            "lng": -1.776227,
+            "name": "Go Bowling Alley, Shipley"
+        },
+        {
+            "guid": "2d522f22878f4d17860eac9b30dce7be.16",
+            "lat": 53.832146,
+            "lng": -1.769626,
+            "name": "Windhill Cemetery, Owlet Road, Windhill, Shipley"
+        },
+        {
+            "guid": "14ba3d6c26ba4f95a24a1fcd8f703698.16",
+            "lat": 53.832178,
+            "lng": -1.779107,
+            "name": "Shipley Post Office"
+        },
+        {
+            "guid": "941cb74dacdc4fee80057c96fcaeb8ed.16",
+            "lat": 53.832542,
+            "lng": -1.765728,
+            "name": "Carr Lane VR Wallbox"
+        },
+        {
+            "guid": "15136d10b7384928806eb42b31df6b7b.16",
+            "lat": 53.832583,
+            "lng": -1.785187,
+            "name": "Shipley Catholic Club"
+        },
+        {
+            "guid": "857841dd286b4b62894d4a1d9e77ddd0.16",
+            "lat": 53.832629,
+            "lng": -1.768089,
+            "name": "Windhill Recreational MUGA"
+        },
+        {
+            "guid": "9d90f4f90c4a4b369e025e32049affd8.16",
+            "lat": 53.83264,
+            "lng": -1.764471,
+            "name": "Oswald Street Playarea Windhill"
+        },
+        {
+            "guid": "14ad002c308342bfbdd4ea9e7061f22e.16",
+            "lat": 53.832704,
+            "lng": -1.778412,
+            "name": "Shipley Library"
+        },
+        {
+            "guid": "895cb3cd7b344f86ade2ae3bb2b4ab15.16",
+            "lat": 53.832727,
+            "lng": -1.77906,
+            "name": "Welcome To Shipley Information Board"
+        },
+        {
+            "guid": "30f7097924134a32a6d38828b36db67e.16",
+            "lat": 53.832739,
+            "lng": -1.769944,
+            "name": "Windhill Church"
+        },
+        {
+            "guid": "38645d25ab434b5381a47557a985cfa2.16",
+            "lat": 53.832773,
+            "lng": -1.777584,
+            "name": "Welcome to Shipley"
+        },
+        {
+            "guid": "369f265016564af9829353145eed67a6.11",
+            "lat": 53.832818,
+            "lng": -1.783061,
+            "name": "Canal Mural"
+        },
+        {
+            "guid": "9daa39d82abe45bbb2b22102cc64d353.16",
+            "lat": 53.832829,
+            "lng": -1.782602,
+            "name": "Shipley Swimming Pool"
+        },
+        {
+            "guid": "f9a76dacde6f4b26b823f45f2d1ebd59.16",
+            "lat": 53.832831,
+            "lng": -1.775572,
+            "name": "Old House At Home Pub"
+        },
+        {
+            "guid": "ecc8329465bb4c73bcecb4bb3f5e1ff6.16",
+            "lat": 53.83287,
+            "lng": -1.791796,
+            "name": "George VI Postbox, Fern Hill Road"
+        },
+        {
+            "guid": "20e39f11af2641a490700784f8eb5f25.16",
+            "lat": 53.832934,
+            "lng": -1.765051,
+            "name": "Windhill Conservative Club"
+        },
+        {
+            "guid": "d36d22c25c584622908ad52e0a544767.16",
+            "lat": 53.832956,
+            "lng": -1.794461,
+            "name": "St Peter's Tennis Club"
+        },
+        {
+            "guid": "295fd58b7df74ca9954acdde4c139fae.16",
+            "lat": 53.832991,
+            "lng": -1.768285,
+            "name": "Windhill Recreation Ground Skatepark & Playarea"
+        },
+        {
+            "guid": "242f7fe0ffd34c94aa8a0a466089a8b1.16",
+            "lat": 53.833032,
+            "lng": -1.776322,
+            "name": "The Hockney Pub"
+        },
+        {
+            "guid": "247bdb6296ac43fda662b791e21fb006.16",
+            "lat": 53.833089,
+            "lng": -1.779877,
+            "name": "Shipley Old Fire Station"
+        },
+        {
+            "guid": "06649d0a77514e05a9dea82fa19f5538.16",
+            "lat": 53.833097,
+            "lng": -1.76933,
+            "name": "Windhill Parish Hall"
+        },
+        {
+            "guid": "1013d52e3ecf44b68bf6b8f58eb99492.16",
+            "lat": 53.833135,
+            "lng": -1.773341,
+            "name": "Shipley Train Station "
+        },
+        {
+            "guid": "fa41f60c572f49b9b78f43e15b1f8b2f.16",
+            "lat": 53.833147,
+            "lng": -1.775985,
+            "name": "Richard F Smith Councillor Foundation Stone"
+        },
+        {
+            "guid": "53908f5da5ca43b0b0d04b27303e25ee.16",
+            "lat": 53.833166,
+            "lng": -1.776968,
+            "name": "King George V Postbox, Market Street "
+        },
+        {
+            "guid": "f1871373af9a4f609229d5223b5f3200.16",
+            "lat": 53.833183,
+            "lng": -1.768919,
+            "name": "Windhill Recreation Ground Entrance Sign"
+        },
+        {
+            "guid": "d1432ada37fe4f18b942a974bc6e8267.16",
+            "lat": 53.833267,
+            "lng": -1.788092,
+            "name": "The Cellar Trust Cafe"
+        },
+        {
+            "guid": "8541f62a77e841638e815a3c39d2d308.16",
+            "lat": 53.833321,
+            "lng": -1.779583,
+            "name": "Shipley Masjid Institute"
+        },
+        {
+            "guid": "4e406fe0566e42ea9d8a4ce44d1a1c68.11",
+            "lat": 53.833392,
+            "lng": -1.777451,
+            "name": "Shipley Sheep Sculpture"
+        },
+        {
+            "guid": "176c18b74f054ca7939a9c21ced9f72c.16",
+            "lat": 53.833396,
+            "lng": -1.769324,
+            "name": "The New Inn Pub Windhill"
+        },
+        {
+            "guid": "9d3a9a24ae3f41f692754d6fa81f6018.16",
+            "lat": 53.833503,
+            "lng": -1.785855,
+            "name": "Shipley St. Mary and St. Walburga Church"
+        },
+        {
+            "guid": "9a5f86c79cbe498faf58fe9856eb2116.16",
+            "lat": 53.833549,
+            "lng": -1.778779,
+            "name": "Shipley - Christian Life Church"
+        },
+        {
+            "guid": "3337a670595646bbbf37f2fcf1e08bfc.16",
+            "lat": 53.833586,
+            "lng": -1.783672,
+            "name": "Queen Victoria Postbox, Belmont Terrace"
+        },
+        {
+            "guid": "89000949ac7044b39394558a46c5f1ba.11",
+            "lat": 53.833601,
+            "lng": -1.777114,
+            "name": "Shipley Bus Station"
+        },
+        {
+            "guid": "ccb2ee86f4b844d196242a4ff0f97e64.16",
+            "lat": 53.833642,
+            "lng": -1.782657,
+            "name": "St Paul's Church Noticeboard"
+        },
+        {
+            "guid": "65cd5d76e3e8469192439d8b79d2c9c4.16",
+            "lat": 53.833659,
+            "lng": -1.773357,
+            "name": "Shipley Butterfly Meadow "
+        },
+        {
+            "guid": "9949892cec944b6e8da9d6babe272c5e.16",
+            "lat": 53.83366,
+            "lng": -1.787682,
+            "name": "King George V Post Box"
+        },
+        {
+            "guid": "07e4eab98f1543aea8189d9d6137c3ff.11",
+            "lat": 53.83366,
+            "lng": -1.779498,
+            "name": "Shipley Town Hall"
+        },
+        {
+            "guid": "e94c6ea08bdf4fdeb1b7ffae8a26a36d.16",
+            "lat": 53.833671,
+            "lng": -1.775485,
+            "name": "Shipley Conservative Club"
+        },
+        {
+            "guid": "13fdc2db9f724d8ba00f69fc8191b5f4.16",
+            "lat": 53.833686,
+            "lng": -1.787002,
+            "name": "Ring Of Bells pub"
+        },
+        {
+            "guid": "a48d628f23564e008b6525ee8d39f110.16",
+            "lat": 53.83369,
+            "lng": -1.781649,
+            "name": "Crowgill Park Sign"
+        },
+        {
+            "guid": "3256bcc602934986bdfd2125ff5318c7.16",
+            "lat": 53.833696,
+            "lng": -1.730667,
+            "name": "Idle Baptist Church"
+        },
+        {
+            "guid": "091f4dcb62c64044bd98b69643c880ad.16",
+            "lat": 53.833754,
+            "lng": -1.767817,
+            "name": "Carr Lane GVIR Pillarbox"
+        },
+        {
+            "guid": "1ea24bc8b6e640dea850ea5e59e36b51.16",
+            "lat": 53.83385,
+            "lng": -1.779638,
+            "name": "Shipley Kirkgate Community Centre"
+        },
+        {
+            "guid": "c6139e1749bb49c18baeb6a1dc7d673e.16",
+            "lat": 53.833862,
+            "lng": -1.783119,
+            "name": "St. Paul's Parish Church"
+        },
+        {
+            "guid": "45ff31b9297c4e3c99066d14923b296f.16",
+            "lat": 53.833877,
+            "lng": -1.780912,
+            "name": "Crowgill Park Bowling Green"
+        },
+        {
+            "guid": "8eca26cee4d84badb48c04ccfdb95340.16",
+            "lat": 53.833905,
+            "lng": -1.780307,
+            "name": "Crowgill Park Entrance"
+        },
+        {
+            "guid": "03826d4b237a437580543127742889f9.16",
+            "lat": 53.833973,
+            "lng": -1.77697,
+            "name": "The Sir Norman Rae"
+        },
+        {
+            "guid": "3c815041f5314c92a09b5eb0d964280e.16",
+            "lat": 53.834058,
+            "lng": -1.773898,
+            "name": "Shipley Railway Station platform"
+        },
+        {
+            "guid": "1b68d2d87af448e7b64375cff4b13a01.11",
+            "lat": 53.834105,
+            "lng": -1.777419,
+            "name": "Shipley Marketplace"
+        },
+        {
+            "guid": "3ae370f11b59423b82b20c5e50e88eb4.16",
+            "lat": 53.834109,
+            "lng": -1.778807,
+            "name": "Jigsaw Mural"
+        },
+        {
+            "guid": "556032e7692846709d4c1e6c2761c835.16",
+            "lat": 53.834123,
+            "lng": -1.763726,
+            "name": "Windmill Gates"
+        },
+        {
+            "guid": "48eb326bb5ba4cfbaedce38571560092.16",
+            "lat": 53.834141,
+            "lng": -1.768239,
+            "name": "Carnegie Library"
+        },
+        {
+            "guid": "567188d26e0f4ebd984a1aff0db3d562.16",
+            "lat": 53.834163,
+            "lng": -1.778494,
+            "name": "Shipley Baptist Church"
+        },
+        {
+            "guid": "371f2a8f282b4e94b3a5aae7f1e8b3da.16",
+            "lat": 53.834166,
+            "lng": -1.776224,
+            "name": "Barclay's Bank Carving Kirkgate"
+        },
+        {
+            "guid": "8ede72da0d7a4a1d84d9fed28c44ab70.16",
+            "lat": 53.834207,
+            "lng": -1.769385,
+            "name": "Dixon's Building 1888"
+        },
+        {
+            "guid": "7b534f2c04044e7ba1b73be62df613d2.16",
+            "lat": 53.83426,
+            "lng": -1.769991,
+            "name": "Former Shipley and Windhill Station"
+        },
+        {
+            "guid": "231073546c914f35bda9ab32118f65a2.16",
+            "lat": 53.834325,
+            "lng": -1.780942,
+            "name": "Crowgill Park War Memorial"
+        },
+        {
+            "guid": "ed3d14b0f9114e889986abb2419cdd5e.16",
+            "lat": 53.83435,
+            "lng": -1.788353,
+            "name": "Saltaire Christadelphian Hall"
+        },
+        {
+            "guid": "3f9978086bea461986147064b04768b7.16",
+            "lat": 53.834382,
+            "lng": -1.76715,
+            "name": "The Travellers Rest"
+        },
+        {
+            "guid": "619f2042d6fd42efb2eb25a677fde0f7.16",
+            "lat": 53.834404,
+            "lng": -1.777864,
+            "name": "Mill Office Building 1882"
+        },
+        {
+            "guid": "a9607c1fdcef4c3d99e8def1d07ae95f.16",
+            "lat": 53.834447,
+            "lng": -1.776785,
+            "name": "The Sun Hotel Pub"
+        },
+        {
+            "guid": "1f0c4acc6bf244558f427ba2b8164d52.16",
+            "lat": 53.834474,
+            "lng": -1.774837,
+            "name": "Joseph Craven MP 1886 Foundation Stone"
+        },
+        {
+            "guid": "8c6171bafc9c4516b7f58b2b26c64584.16",
+            "lat": 53.834533,
+            "lng": -1.767756,
+            "name": "Windhill Manor"
+        },
+        {
+            "guid": "360a8515a544459e9b93b994d247d6be.16",
+            "lat": 53.834558,
+            "lng": -1.764138,
+            "name": "Windhill Community Centre"
+        },
+        {
+            "guid": "61a7229e2d7c4d6096352caec66cd00a.16",
+            "lat": 53.834582,
+            "lng": -1.780591,
+            "name": "Crowgill Park, Skateboard"
+        },
+        {
+            "guid": "1d0762028d094d78a55687c23cab7931.16",
+            "lat": 53.834664,
+            "lng": -1.778906,
+            "name": "Hullabaloo Bar"
+        },
+        {
+            "guid": "07f3525043754b1ba45fa19e0b865100.16",
+            "lat": 53.834773,
+            "lng": -1.79141,
+            "name": "Al's Star Bar"
+        },
+        {
+            "guid": "a79c61934ade419c9abafde24cbf8c55.16",
+            "lat": 53.834778,
+            "lng": -1.775102,
+            "name": "Midland Buildings 1881"
+        },
+        {
+            "guid": "b25317a81e534f1f90607567aed52b72.16",
+            "lat": 53.834858,
+            "lng": -1.774093,
+            "name": "Fox Real Ale Bar and Cafe"
+        },
+        {
+            "guid": "7d555eb21224457195ec1bcea11ea14d.16",
+            "lat": 53.834872,
+            "lng": -1.791933,
+            "name": "Saltaire Post Office"
+        },
+        {
+            "guid": "a9f4619356724658bd3e3f84021ad04d.16",
+            "lat": 53.83495,
+            "lng": -1.73062,
+            "name": "Idle Post Office"
+        },
+        {
+            "guid": "40fc0276b9d84133b045432fe32795a7.16",
+            "lat": 53.834966,
+            "lng": -1.764435,
+            "name": "Christchurch Windhill"
+        },
+        {
+            "guid": "8d4f91b78b9740b991c56dac2d72ef1a.16",
+            "lat": 53.834978,
+            "lng": -1.76586,
+            "name": "Windhill Liberal Club Foundation Stone"
+        },
+        {
+            "guid": "82ce9023639742a29851623fd9328499.16",
+            "lat": 53.834998,
+            "lng": -1.788544,
+            "name": "Park Street Football Field"
+        },
+        {
+            "guid": "c8c0e1cfca8c418ea13af01fcb7154ec.16",
+            "lat": 53.83501,
+            "lng": -1.762886,
+            "name": "Shipley Communities Clock Tower"
+        },
+        {
+            "guid": "0bc865129c284a8a9ff106dc8a209908.16",
+            "lat": 53.835086,
+            "lng": -1.775891,
+            "name": "Duck And Dive Watersports Centre"
+        },
+        {
+            "guid": "7aacdb8c48a44129b56b66fa2030f41a.16",
+            "lat": 53.835088,
+            "lng": -1.777245,
+            "name": "Shipley, Salvation Army Citadel, Rhodes Place, Shipley"
+        },
+        {
+            "guid": "5c465c8ed5b243499330e833e715f215.16",
+            "lat": 53.83511,
+            "lng": -1.757235,
+            "name": "Windhill Community Park Playarea"
+        },
+        {
+            "guid": "108f2de6a5664e6784290b749d28b582.16",
+            "lat": 53.835156,
+            "lng": -1.780236,
+            "name": "The Beehive Pub"
+        },
+        {
+            "guid": "5ef998e544564a56bc07758e18360045.16",
+            "lat": 53.835158,
+            "lng": -1.730447,
+            "name": "Cattle Trough"
+        },
+        {
+            "guid": "8cc4d4c6c1224b0886796a7e99511afe.16",
+            "lat": 53.835276,
+            "lng": -1.793233,
+            "name": "Tallulah's Wine Bar"
+        },
+        {
+            "guid": "637dd367c38b4d2595f5f7b1e192e99a.16",
+            "lat": 53.835282,
+            "lng": -1.762116,
+            "name": "The Woodend Free House Pub"
+        },
+        {
+            "guid": "5bb272a645b646899114d333cfd10706.16",
+            "lat": 53.83531,
+            "lng": -1.781799,
+            "name": "Proud of Shipley Art Mural"
+        },
+        {
+            "guid": "7c49825464514867a4d558e986a1dee8.16",
+            "lat": 53.835377,
+            "lng": -1.775171,
+            "name": "Shipley Riverside Mural 1"
+        },
+        {
+            "guid": "a4396d1943df4682b4c395c35fe7f69e.16",
+            "lat": 53.835385,
+            "lng": -1.782998,
+            "name": "Shipley & District Social Club"
+        },
+        {
+            "guid": "80fd4674a6cb480ab8aa921cfa3dcbc2.16",
+            "lat": 53.835389,
+            "lng": -1.793907,
+            "name": "Saltaire World Heritage Site Marker"
+        },
+        {
+            "guid": "0407947781b542d8a62ab3c6028b8bc2.16",
+            "lat": 53.835507,
+            "lng": -1.756206,
+            "name": "Windhill Community Park"
+        },
+        {
+            "guid": "e1405d9c0927427ca94687527f09c883.16",
+            "lat": 53.835532,
+            "lng": -1.794652,
+            "name": "Saltaire History Information Board"
+        },
+        {
+            "guid": "64c3275d843c40838a9c1b537aa15ea0.16",
+            "lat": 53.835621,
+            "lng": -1.772703,
+            "name": "Gallows Footbridge"
+        },
+        {
+            "guid": "110828381e5448ad9d803f1d64460baa.16",
+            "lat": 53.835707,
+            "lng": -1.73097,
+            "name": "Butt Lane Fancy Stonework"
+        },
+        {
+            "guid": "ac721425102744bb929ace066791e204.16",
+            "lat": 53.835725,
+            "lng": -1.776464,
+            "name": "Airedale Greenway Map"
+        },
+        {
+            "guid": "907063ad84c04805a12c5dd7590ea31f.16",
+            "lat": 53.83575,
+            "lng": -1.777811,
+            "name": "Shipley Wharf"
+        },
+        {
+            "guid": "7b9786f1b3e748519d40b3daad660a7f.16",
+            "lat": 53.835854,
+            "lng": -1.7323,
+            "name": "Idle liberal club. Built 1888"
+        },
+        {
+            "guid": "73945bcab5c84bc3a4219c1356fc1318.16",
+            "lat": 53.835861,
+            "lng": -1.776897,
+            "name": "Shipley Route 66 Mile Marker"
+        },
+        {
+            "guid": "d5c6f495aec244cb9e950c6c9bdf936f.16",
+            "lat": 53.835978,
+            "lng": -1.774876,
+            "name": "The Noble Comb Playground"
+        },
+        {
+            "guid": "3a0f058ed1c3417fa4bceae76d679d30.16",
+            "lat": 53.836016,
+            "lng": -1.731512,
+            "name": "The OddFellows Built 1840"
+        },
+        {
+            "guid": "0c613f2aab184e91973ceae732df2bd3.16",
+            "lat": 53.836022,
+            "lng": -1.77524,
+            "name": "The Noble Comb Pub & Restaurant "
+        },
+        {
+            "guid": "6758f18ce6ea40c8a662d889bdc723ed.16",
+            "lat": 53.836057,
+            "lng": -1.786921,
+            "name": "The Salt Cellar Pub"
+        },
+        {
+            "guid": "c4b43014aed74c1bb4585be34cdfbf27.16",
+            "lat": 53.836088,
+            "lng": -1.79004,
+            "name": "Old Hospital, Saltaire"
+        },
+        {
+            "guid": "7ae76ffc13084ff3b258a5934641aed7.16",
+            "lat": 53.836108,
+            "lng": -1.769987,
+            "name": "Shipley Canalside Wellbeing Garden"
+        },
+        {
+            "guid": "b01973d9002448ce91e63e924c2d663a.16",
+            "lat": 53.836166,
+            "lng": -1.75278,
+            "name": "Lynden Avenue - GVIR Wallbox"
+        },
+        {
+            "guid": "ccdd3e55f3a84ceb96b4fd7503694bd5.16",
+            "lat": 53.836212,
+            "lng": -1.790883,
+            "name": "Saltaire Methodist Church"
+        },
+        {
+            "guid": "f5226802fd48464f93ec9dbb2e2bdb65.16",
+            "lat": 53.836238,
+            "lng": -1.769015,
+            "name": "Junction Bridge"
+        },
+        {
+            "guid": "9ddce180ea4c4b5d8b63142de388cb7a.16",
+            "lat": 53.83624,
+            "lng": -1.788216,
+            "name": "Fanny's Ale House, Saltaire"
+        },
+        {
+            "guid": "936c76f05130490a8ae7652f72556de8.16",
+            "lat": 53.836265,
+            "lng": -1.760711,
+            "name": "The Alma Inn"
+        },
+        {
+            "guid": "0b2e0e31e06f4992bbafc7545f195e2c.16",
+            "lat": 53.836282,
+            "lng": -1.780011,
+            "name": "Mercury Quays Mill"
+        },
+        {
+            "guid": "789620df38b64df5a6888f41d6fcaee5.16",
+            "lat": 53.836343,
+            "lng": -1.732828,
+            "name": "Salvation Army Citadel"
+        },
+        {
+            "guid": "5a17ed27321a4459b2f0b8e7365b7bf0.16",
+            "lat": 53.836529,
+            "lng": -1.768318,
+            "name": "Dockfield Mills"
+        },
+        {
+            "guid": "604de1433cb245e59289318e65e418f7.16",
+            "lat": 53.836545,
+            "lng": -1.732181,
+            "name": "Idle Working Men's Club"
+        },
+        {
+            "guid": "240f59fc0d214ea09062b28d4a1894f9.16",
+            "lat": 53.836657,
+            "lng": -1.733751,
+            "name": "Highfield Road Sundial"
+        },
+        {
+            "guid": "8b50b00760874941b986ea7feb69fe51.16",
+            "lat": 53.836659,
+            "lng": -1.738996,
+            "name": "Hepworth & Idle Cricket Club"
+        },
+        {
+            "guid": "33676c23121a4bcc856209b22c623fd0.16",
+            "lat": 53.83673,
+            "lng": -1.790136,
+            "name": "King George V Postbox, Victoria Road"
+        },
+        {
+            "guid": "95c89d7e5aa1497d90264995c47034ff.16",
+            "lat": 53.83673,
+            "lng": -1.739756,
+            "name": "Historic stone lintel"
+        },
+        {
+            "guid": "f80bac1b074f40368a17d56f0410b7a6.16",
+            "lat": 53.836752,
+            "lng": -1.781224,
+            "name": "The Engine House"
+        },
+        {
+            "guid": "7d25c5c117f8467e8c10897911372692.16",
+            "lat": 53.83687,
+            "lng": -1.786337,
+            "name": "Baker Street Play Area, Saltaire"
+        },
+        {
+            "guid": "86276b3cdebe49bd97d58e0687990cc2.16",
+            "lat": 53.836908,
+            "lng": -1.783737,
+            "name": "Saltaire Visitors Sign"
+        },
+        {
+            "guid": "71304ef5f6a64a6d9a2535d1f109f4b9.16",
+            "lat": 53.836915,
+            "lng": -1.790086,
+            "name": "Saltaire Lion"
+        },
+        {
+            "guid": "b66bfda4134142a098bf831d1885cc51.11",
+            "lat": 53.836974,
+            "lng": -1.788665,
+            "name": "Exhibition Building, Saltaire"
+        },
+        {
+            "guid": "059b35318b78443d8352a19d2ef7cfbe.16",
+            "lat": 53.837049,
+            "lng": -1.773521,
+            "name": "Dog In A Dinghy, Aire Sculpture Trail, River Aire, Shipley"
+        },
+        {
+            "guid": "eeffb29ede9c443192a15cee0f1b6af9.11",
+            "lat": 53.837054,
+            "lng": -1.789603,
+            "name": "Victoria Hall"
+        },
+        {
+            "guid": "4af7e4e6737a4ca1961e5af148c8c278.16",
+            "lat": 53.837118,
+            "lng": -1.790075,
+            "name": "Old School, Saltaire"
+        },
+        {
+            "guid": "4dadc922d0da43909a2f32bb08b45658.16",
+            "lat": 53.837177,
+            "lng": -1.735864,
+            "name": "Idle Upper Chapel URC"
+        },
+        {
+            "guid": "d150bfc470124983afa5874f29ff71bd.16",
+            "lat": 53.837177,
+            "lng": -1.735175,
+            "name": "Idle United Reform Church"
+        },
+        {
+            "guid": "f5ad1e98adc04dbe93bd7cc310b0db38.16",
+            "lat": 53.837215,
+            "lng": -1.75613,
+            "name": "Shipley: Busy Lane Post Office"
+        },
+        {
+            "guid": "b642b57aef6e4804a5420b05558be6da.16",
+            "lat": 53.837243,
+            "lng": -1.733232,
+            "name": "The White Bear"
+        },
+        {
+            "guid": "d2a37403fd994d529d9c2723922e87c5.16",
+            "lat": 53.837312,
+            "lng": -1.774806,
+            "name": "Frog on a Leaf, Aire Sculpture Trail, River Aire, Shipley"
+        },
+        {
+            "guid": "e00845808859435696bcb1b330e72c76.16",
+            "lat": 53.837368,
+            "lng": -1.732962,
+            "name": "Stage 84 Chapel"
+        },
+        {
+            "guid": "663b292a9652443684f08e3d9ef882ea.16",
+            "lat": 53.837398,
+            "lng": -1.778535,
+            "name": "The Cotton Loom"
+        },
+        {
+            "guid": "10a22ddc08d149cca04b180ba316bbf3.16",
+            "lat": 53.837487,
+            "lng": -1.788165,
+            "name": "Caroline Street Community Notice Board"
+        },
+        {
+            "guid": "c0feed0ee1ba4091ac339050ec6f8329.16",
+            "lat": 53.837491,
+            "lng": -1.773343,
+            "name": "Welcome To Baildon "
+        },
+        {
+            "guid": "6170b98685854cc28b7a464f33c44c6e.16",
+            "lat": 53.837579,
+            "lng": -1.761102,
+            "name": "Windhill football pitch"
+        },
+        {
+            "guid": "14b15962f4504da38bafed124163a909.16",
+            "lat": 53.837584,
+            "lng": -1.788434,
+            "name": "Caroline Street Social Club"
+        },
+        {
+            "guid": "4e9b5e3896004f9a860b1148217e33b4.16",
+            "lat": 53.837635,
+            "lng": -1.775488,
+            "name": "Submarine"
+        },
+        {
+            "guid": "fd894c8aa2cb44af83227458b216a381.16",
+            "lat": 53.837646,
+            "lng": -1.732486,
+            "name": "Vintage telephone box."
+        },
+        {
+            "guid": "9a1313834d03462d8cc776fece81a29e.16",
+            "lat": 53.837658,
+            "lng": -1.774195,
+            "name": "Baildon WMC & Cricket Club"
+        },
+        {
+            "guid": "ebd5fc7d4d0a443e9e5a4cff7cf651bf.16",
+            "lat": 53.837704,
+            "lng": -1.775568,
+            "name": "Frame, Aire Sculpture Trail, River Aire, Shipley"
+        },
+        {
+            "guid": "bd07428682d446b29337a46b26a10a2a.16",
+            "lat": 53.837707,
+            "lng": -1.789561,
+            "name": "Information Board And Community Veg Plots"
+        },
+        {
+            "guid": "5f7068c9e9e14e519d8c9869c91a4f41.16",
+            "lat": 53.837752,
+            "lng": -1.779198,
+            "name": "Victoria Mills Chimney"
+        },
+        {
+            "guid": "0c8535793da14a8c843a4443f10df157.16",
+            "lat": 53.837801,
+            "lng": -1.760082,
+            "name": "Thackley Old Road Playarea Windhill"
+        },
+        {
+            "guid": "bcf823244c4b4db8881d2366dbbab3f6.16",
+            "lat": 53.837889,
+            "lng": -1.731635,
+            "name": "Idle Holy Trinity Church"
+        },
+        {
+            "guid": "6b5412f00f0f44e1bfc01e86acfb4738.16",
+            "lat": 53.837898,
+            "lng": -1.789808,
+            "name": "Don't Tell Titus"
+        },
+        {
+            "guid": "e512723736904f5f80a1086245f3dc11.16",
+            "lat": 53.837907,
+            "lng": -1.79172,
+            "name": "Wash House Garden"
+        },
+        {
+            "guid": "fc99cd411afe4ed2adfeb8bed5df7b86.16",
+            "lat": 53.83791,
+            "lng": -1.786822,
+            "name": "Salt's Mill Chimney"
+        },
+        {
+            "guid": "4dcf3ca7bedc4cb5a14c41eb2f1fc36e.16",
+            "lat": 53.837961,
+            "lng": -1.77813,
+            "name": "Victoria Mills Fountain"
+        },
+        {
+            "guid": "ece462e4d2e740c5829a096922052f95.16",
+            "lat": 53.837991,
+            "lng": -1.732021,
+            "name": "Memorial Timber Lych Gate"
+        },
+        {
+            "guid": "af31cbc33c4e4bb7810946c58b32c725.16",
+            "lat": 53.838073,
+            "lng": -1.776514,
+            "name": "Alpaca Aire Sculpture Trail River Aire Shipley"
+        },
+        {
+            "guid": "6f4a5838041b4a2ea6a723bd18878d40.16",
+            "lat": 53.83811,
+            "lng": -1.733752,
+            "name": "Idle & Thackley conservative club"
+        },
+        {
+            "guid": "1c31e90be88448f48e4e394cb5479ed9.16",
+            "lat": 53.838259,
+            "lng": -1.76607,
+            "name": "Beer Plaque"
+        },
+        {
+            "guid": "86ee215bd5104877b8ded178c552e429.16",
+            "lat": 53.838286,
+            "lng": -1.78826,
+            "name": "Salts Mill"
+        },
+        {
+            "guid": "a0d5ee9fcc4549fbb59c3c0cd368d21e.16",
+            "lat": 53.838294,
+            "lng": -1.783427,
+            "name": "Leeds Liverpool Canal 114m/13.25m Milestone Marker"
+        },
+        {
+            "guid": "c632ba151b664eb39df73b64a26fc580.16",
+            "lat": 53.838373,
+            "lng": -1.777507,
+            "name": "Dog Aire Sculpture Trail"
+        },
+        {
+            "guid": "43e3885d5d324852acc0879e55905ef7.16",
+            "lat": 53.8384,
+            "lng": -1.757877,
+            "name": "Windhill Cricket and Social Club"
+        },
+        {
+            "guid": "34b37015378a43d18dee142e58eafaba.16",
+            "lat": 53.838447,
+            "lng": -1.760701,
+            "name": "Disused railway bridge"
+        },
+        {
+            "guid": "7ab34e1616c643ebaca34d013c94d170.16",
+            "lat": 53.83845,
+            "lng": -1.775585,
+            "name": "Baildon Recreation Centre"
+        },
+        {
+            "guid": "dfe781494ffe48b6829b45ac9d257f0a.16",
+            "lat": 53.838477,
+            "lng": -1.789664,
+            "name": "Saltaire Railway Station"
+        },
+        {
+            "guid": "5b9adcd8887d408b985c6fd83f7a18f4.16",
+            "lat": 53.838666,
+            "lng": -1.773683,
+            "name": "George VI Postbox, Green Lane"
+        },
+        {
+            "guid": "17efb292e0dd4fb59e1aaeb0533aaf96.16",
+            "lat": 53.838677,
+            "lng": -1.778676,
+            "name": "Snowman Aire Sculpture Trail"
+        },
+        {
+            "guid": "0669b07759c64f49add9617285e63b4f.16",
+            "lat": 53.838744,
+            "lng": -1.790705,
+            "name": "Saltaire War Memorial"
+        },
+        {
+            "guid": "b980984c10f247619b8f5b598451f781.16",
+            "lat": 53.838891,
+            "lng": -1.779434,
+            "name": "Skater Frog Aire Sculpture Trail"
+        },
+        {
+            "guid": "32769e84dfd14b61bb691eef7aa7bbc8.16",
+            "lat": 53.838925,
+            "lng": -1.789227,
+            "name": "Entrance Block, Salts Mill"
+        },
+        {
+            "guid": "d860e62ce2af48628ae9e9a6d6b0897f.16",
+            "lat": 53.838941,
+            "lng": -1.79111,
+            "name": "Saltaire Urn Sculpture"
+        },
+        {
+            "guid": "549231d2c9324eccadf650e3df610194.16",
+            "lat": 53.839018,
+            "lng": -1.79054,
+            "name": "Saltaire UR Church"
+        },
+        {
+            "guid": "82bc5f4db57b4b56a7a985af2c59de94.16",
+            "lat": 53.839171,
+            "lng": -1.782246,
+            "name": "Bird, Aire Sculpture Trail, River Aire, Shipley"
+        },
+        {
+            "guid": "fe34fffac5424e2693be6d0a5fe536f2.16",
+            "lat": 53.839186,
+            "lng": -1.782592,
+            "name": "Cat in the Bath Aire Sculpture Trail River Aire Shipley"
+        },
+        {
+            "guid": "6c95605ecfca45298b157e5da491372c.16",
+            "lat": 53.839191,
+            "lng": -1.785364,
+            "name": "Fish on Drawers, Aire Sculpture Trail, Leeds Liverpool Canal, Saltaire"
+        },
+        {
+            "guid": "46009976ca484469bea7e9061149691d.16",
+            "lat": 53.839213,
+            "lng": -1.786312,
+            "name": "Salt Pot Slug, Aire Sculpture Trail, Leeds Liverpool Canal, Saltaire"
+        },
+        {
+            "guid": "d7e0f7cb79d24dea9c527e37b4956f08.16",
+            "lat": 53.839228,
+            "lng": -1.785941,
+            "name": "Tortoises Sculpture on the Aire Trail "
+        },
+        {
+            "guid": "6624e1a0b71e4a6e8b2e1156f5f64420.16",
+            "lat": 53.839282,
+            "lng": -1.784722,
+            "name": "Fish, Aire Sculpture Trail, River Aire, Shipley"
+        },
+        {
+            "guid": "65b402d003a047b9be833e801a271726.16",
+            "lat": 53.839459,
+            "lng": -1.788451,
+            "name": "Boat Sculpture, Saltaire"
+        },
+        {
+            "guid": "6b873914f1954efd9fcbcdafb5659edd.16",
+            "lat": 53.839523,
+            "lng": -1.78997,
+            "name": "Ice Cream Boat"
+        },
+        {
+            "guid": "305cfd802c664ad9aa6d17ebe84d55e0.16",
+            "lat": 53.839546,
+            "lng": -1.789614,
+            "name": "Octopus"
+        },
+        {
+            "guid": "01e8d794c89f455995cc156564fb3d20.16",
+            "lat": 53.83958,
+            "lng": -1.794563,
+            "name": "Salts Bowls Club"
+        },
+        {
+            "guid": "b62d1bc75c6a45748e72bc8c0f512bb1.16",
+            "lat": 53.839583,
+            "lng": -1.789198,
+            "name": "New Mill"
+        },
+        {
+            "guid": "7873f382608e4b92aa9832a5ebb391fa.16",
+            "lat": 53.839595,
+            "lng": -1.762959,
+            "name": "Dockfield Road Milestone Marker"
+        },
+        {
+            "guid": "5eba6cda142a4a02a099d28c696fae67.16",
+            "lat": 53.839664,
+            "lng": -1.793258,
+            "name": "Salts Tennis Club"
+        },
+        {
+            "guid": "666c4c235f8d4a2683fa4352e9860410.16",
+            "lat": 53.839807,
+            "lng": -1.790188,
+            "name": "The Boathouse Inn"
+        },
+        {
+            "guid": "21485b8ddcbc4e58ae12d4189f0cbe8d.16",
+            "lat": 53.840092,
+            "lng": -1.769069,
+            "name": "The Junction Public House"
+        },
+        {
+            "guid": "5491e0958b3248cb8fedb2616f18c8c4.16",
+            "lat": 53.840258,
+            "lng": -1.789704,
+            "name": "Shipley: Bob Cryer Memorial"
+        },
+        {
+            "guid": "f2d4f0b8c90047dfb31a11dc35e09f29.16",
+            "lat": 53.840289,
+            "lng": -1.781428,
+            "name": "King George V Postbox"
+        },
+        {
+            "guid": "04aa5e8c45ba4c65a732319d7c1bd09c.16",
+            "lat": 53.840362,
+            "lng": -1.788554,
+            "name": "Roberts park BMX and Skate park"
+        },
+        {
+            "guid": "e2ece8d511cf45a6819ff45df1147654.16",
+            "lat": 53.840468,
+            "lng": -1.793463,
+            "name": "Saltaire Cricket Club"
+        },
+        {
+            "guid": "f8c06a9fee1e401ca8a72eed4f05fc46.16",
+            "lat": 53.840518,
+            "lng": -1.772692,
+            "name": "South Cliffe Playground"
+        },
+        {
+            "guid": "82f8ba7101ae4208a2df85a889905cad.16",
+            "lat": 53.840544,
+            "lng": -1.785837,
+            "name": "Baildon Kingdom Hall"
+        },
+        {
+            "guid": "7ff74c4bfcca4f99b803695272af5536.16",
+            "lat": 53.840579,
+            "lng": -1.750356,
+            "name": "Sunken Milestone"
+        },
+        {
+            "guid": "e95ef58ff06b4f8780cfe85c0d54e3d3.11",
+            "lat": 53.840621,
+            "lng": -1.789166,
+            "name": "Roberts Park Lodge, Saltaire"
+        },
+        {
+            "guid": "c37725897b7a47f99642fef83b29209a.16",
+            "lat": 53.840695,
+            "lng": -1.794867,
+            "name": "Baildon Riverside Wildflower Information Board"
+        },
+        {
+            "guid": "f09f2b6443e540849ede7e1cf69903f5.16",
+            "lat": 53.840709,
+            "lng": -1.788444,
+            "name": "Roberts Park play area"
+        },
+        {
+            "guid": "c6cd572f96964953841d7486aeff8866.16",
+            "lat": 53.840761,
+            "lng": -1.789966,
+            "name": "Roberts Park"
+        },
+        {
+            "guid": "9b63391e08f04763b31692280e13b9e4.16",
+            "lat": 53.840798,
+            "lng": -1.793516,
+            "name": "Blue Flowers"
+        },
+        {
+            "guid": "361997d79e364074aeb935ee3d339426.16",
+            "lat": 53.840847,
+            "lng": -1.789162,
+            "name": "Shelter (East) Robert's Park"
+        },
+        {
+            "guid": "5b7aedd88137420e9d7e4d0a790bf82b.16",
+            "lat": 53.840904,
+            "lng": -1.783665,
+            "name": "The Church of St. Hugh Baildon"
+        },
+        {
+            "guid": "9130b3502ef64b03ab4dc126d2ae12f4.16",
+            "lat": 53.840994,
+            "lng": -1.793825,
+            "name": "Wildflower Nature Trail Marker"
+        },
+        {
+            "guid": "e26b252a6a9749deb092005f8375792f.16",
+            "lat": 53.841128,
+            "lng": -1.78856,
+            "name": "Baildon: Coach Road Post Office"
+        },
+        {
+            "guid": "ecbe3887742443f5a55f2acc781da828.11",
+            "lat": 53.841153,
+            "lng": -1.791537,
+            "name": "Statue of Sir Titus Salt"
+        },
+        {
+            "guid": "62b7038b77a94f57a3809a8488ff4032.16",
+            "lat": 53.841186,
+            "lng": -1.790979,
+            "name": "Presentation Stone (East)"
+        },
+        {
+            "guid": "877c2390b853490fa6c01b3734be5428.16",
+            "lat": 53.841336,
+            "lng": -1.791424,
+            "name": "Bandstand"
+        },
+        {
+            "guid": "6f8984d2a5c648cca08ea08502abf7cf.16",
+            "lat": 53.841403,
+            "lng": -1.79205,
+            "name": "Presentation Stone (West)"
+        },
+        {
+            "guid": "763aea2a3f1a4459a53025b1982486e4.16",
+            "lat": 53.84145,
+            "lng": -1.793317,
+            "name": "Shelter (West) Robert's Park"
+        },
+        {
+            "guid": "53277a54bc384f1a84b440089a222bd5.16",
+            "lat": 53.841749,
+            "lng": -1.791312,
+            "name": "Shelter (North) Robert's Park"
+        },
+        {
+            "guid": "44bf0f35875e46508c4939d7285134f4.16",
+            "lat": 53.841784,
+            "lng": -1.788551,
+            "name": "Thompson Lane Play Area, Saltaire"
+        },
+        {
+            "guid": "b31937d8ca3f49128df1babd932afe17.16",
+            "lat": 53.841803,
+            "lng": -1.792875,
+            "name": "Stocks"
+        },
+        {
+            "guid": "a52705731c1848cda478b131e416a013.16",
+            "lat": 53.841998,
+            "lng": -1.737891,
+            "name": "George V pillar box Leeds Road"
+        },
+        {
+            "guid": "25fb7457d64f411e933949f890195ead.16",
+            "lat": 53.84217,
+            "lng": -1.764754,
+            "name": "Baildon Parish Council Notice Board "
+        },
+        {
+            "guid": "4f17762a81654617ac4f913602da5823.16",
+            "lat": 53.842174,
+            "lng": -1.790937,
+            "name": "Cube, Pyramid and Cone"
+        },
+        {
+            "guid": "839aff9489e545f2aac8cd99ff1e9f11.16",
+            "lat": 53.842298,
+            "lng": -1.764445,
+            "name": "Charlestown History Information Board"
+        },
+        {
+            "guid": "0494be63e7534d3899b56c50b85a54e3.16",
+            "lat": 53.842675,
+            "lng": -1.735863,
+            "name": "The Great Northern Public House"
+        },
+        {
+            "guid": "925dae2495944a4da0fcabf7f8ca6ffa.16",
+            "lat": 53.842696,
+            "lng": -1.78458,
+            "name": "Baildon Horticultural Society Allotments"
+        },
+        {
+            "guid": "65747148fdcb4b1b90345a8c36dcf26d.16",
+            "lat": 53.842706,
+            "lng": -1.762691,
+            "name": "Permissive Path Trail Marker #1"
+        },
+        {
+            "guid": "3abb193aa5454393a6f3163ae9a829d9.16",
+            "lat": 53.842761,
+            "lng": -1.735314,
+            "name": "The Black Rat Ale Bar & Pub"
+        },
+        {
+            "guid": "8af74d4780d34c5396c96e2780a31423.16",
+            "lat": 53.842778,
+            "lng": -1.753927,
+            "name": "River Aire Trail Marker"
+        },
+        {
+            "guid": "ae2a85545a764fc4a198e52b8774ac87.16",
+            "lat": 53.842779,
+            "lng": -1.73338,
+            "name": "Windhill industrial cooperative society"
+        },
+        {
+            "guid": "38f779fe08f34eddad8cf2570781ac53.16",
+            "lat": 53.842787,
+            "lng": -1.740264,
+            "name": "Thackley railway bridge"
+        },
+        {
+            "guid": "9ae44d2584524b739844a234d8c99a6f.16",
+            "lat": 53.842793,
+            "lng": -1.790653,
+            "name": "Shipley Glen Tramway"
+        },
+        {
+            "guid": "a2233408d81c4fca83b28788a639c040.16",
+            "lat": 53.842878,
+            "lng": -1.73403,
+            "name": "Daisy Bar"
+        },
+        {
+            "guid": "bb11515045244ae6825c7b06d1c14e06.16",
+            "lat": 53.842918,
+            "lng": -1.766453,
+            "name": "Baildon, St Teresa Benedicta, St Aidans Church"
+        },
+        {
+            "guid": "20c2bf6c9fe148608702fbaf8508ad80.16",
+            "lat": 53.84302,
+            "lng": -1.762059,
+            "name": "Charlestown Viaduct"
+        },
+        {
+            "guid": "d404b089a5ba4eacb42dac1917972197.16",
+            "lat": 53.843195,
+            "lng": -1.761202,
+            "name": "Baildon Old Wesleyan Methodist Chapel Otley Road"
+        },
+        {
+            "guid": "7e0d43188a214d4b92c4cae92edda31c.16",
+            "lat": 53.84338,
+            "lng": -1.761171,
+            "name": "Otley Road Turnpike - 6m/4m Milestone"
+        },
+        {
+            "guid": "d0c294c7e2ad46758161ef3eed9b4e82.16",
+            "lat": 53.843409,
+            "lng": -1.757356,
+            "name": "Baildon, Charlestown Cemetery Holmes Family Memorial"
+        },
+        {
+            "guid": "e1cef8fa8a4647b7b9f9c1ed7462d222.16",
+            "lat": 53.84347,
+            "lng": -1.758797,
+            "name": "Baildon, Charlestown Cemetery Chapel"
+        },
+        {
+            "guid": "a3ca132efca24350b9c0f6461fdd8773.16",
+            "lat": 53.843677,
+            "lng": -1.768012,
+            "name": "Ferniehurst Outdoor Gym - Vault"
+        },
+        {
+            "guid": "0bf64e8221ab4fa8b650283f0aa6e42d.16",
+            "lat": 53.843699,
+            "lng": -1.769334,
+            "name": "Ferniehurst Dell Orchard Sign"
+        },
+        {
+            "guid": "88fc3ff6479c47c3a5f00214fff2e141.16",
+            "lat": 53.843764,
+            "lng": -1.779226,
+            "name": "Baildon Green, Cricketers Arms, Free House BD17 7NE"
+        },
+        {
+            "guid": "b6351610d4304719a6c6f16a790259fd.16",
+            "lat": 53.843772,
+            "lng": -1.779866,
+            "name": "Bankside Terrace VR Wallbox"
+        },
+        {
+            "guid": "c70c0f55ffcd47f6a38ea363da8735da.16",
+            "lat": 53.843865,
+            "lng": -1.751706,
+            "name": "Denso Marston Nature Reserve Information Sign #2"
+        },
+        {
+            "guid": "3623029fefbe422991e5002832e5d7b2.16",
+            "lat": 53.843895,
+            "lng": -1.792296,
+            "name": "Shipley Tram"
+        },
+        {
+            "guid": "d67e3480db144cae8dcbc5846b121262.16",
+            "lat": 53.843949,
+            "lng": -1.768185,
+            "name": "Ferniehurst Del Outdoor Gym - Step Ups"
+        },
+        {
+            "guid": "fef898a50eec4e15ab7abd3f7f25a5c1.16",
+            "lat": 53.843972,
+            "lng": -1.778708,
+            "name": "Baildon Green Information Board"
+        },
+        {
+            "guid": "1a70983e785a4ac4b504c4c45a56b8c0.16",
+            "lat": 53.844169,
+            "lng": -1.768651,
+            "name": "Dell monkey bars"
+        },
+        {
+            "guid": "263ab91df034426fafd5b42396a72f51.16",
+            "lat": 53.844171,
+            "lng": -1.770368,
+            "name": "The Dell - Baildon Trinity Dynamos FC"
+        },
+        {
+            "guid": "65044ed2dbae48068a8d23433b57d359.16",
+            "lat": 53.844201,
+            "lng": -1.76633,
+            "name": "Ferniehurst Dell Entrance, Baildon Road, Baildon"
+        },
+        {
+            "guid": "a3632dc1432b46708a96061251b18bfc.16",
+            "lat": 53.844246,
+            "lng": -1.769348,
+            "name": "Baildon, Ferniehurst Dell Trim Trail"
+        },
+        {
+            "guid": "865a130718524235847a884bfee6ae7d.16",
+            "lat": 53.844263,
+            "lng": -1.77884,
+            "name": "The Church on the Green Baildon Green"
+        },
+        {
+            "guid": "3a46287d32ae40d6a760c94bf82b210f.16",
+            "lat": 53.84434,
+            "lng": -1.73383,
+            "name": "Thackley Methodist Church"
+        },
+        {
+            "guid": "c927491c99df4f8d890b012004b6303a.16",
+            "lat": 53.844482,
+            "lng": -1.769083,
+            "name": "Baildon, Soldier Sculpture"
+        },
+        {
+            "guid": "a68d03f765d14948be0aca529f72f673.16",
+            "lat": 53.844501,
+            "lng": -1.76877,
+            "name": "Baildon Paratrooper Sculpture"
+        },
+        {
+            "guid": "e4cf929dc32c4503a21afc19b15b58f2.16",
+            "lat": 53.844514,
+            "lng": -1.733506,
+            "name": "Community hall foundation stone"
+        },
+        {
+            "guid": "84959ed048034d1f8043c21b9aebb33e.16",
+            "lat": 53.844518,
+            "lng": -1.766473,
+            "name": "Heads Armed Forces Sculpture Trail"
+        },
+        {
+            "guid": "442ed9e096e446d98cbb316cc95d900b.16",
+            "lat": 53.844607,
+            "lng": -1.767639,
+            "name": "Circle of Strength"
+        },
+        {
+            "guid": "8afdac4249854528b714af03ebe2caa5.16",
+            "lat": 53.844616,
+            "lng": -1.768311,
+            "name": "Baildon, Pilot Sculpture"
+        },
+        {
+            "guid": "71145b89ffad46b89c833df1b9eadc55.16",
+            "lat": 53.844657,
+            "lng": -1.767117,
+            "name": "Baildon, Soldier with Teddy Sculpture"
+        },
+        {
+            "guid": "a6c5d8962e674f549b7bfa169ff8b3bd.16",
+            "lat": 53.844705,
+            "lng": -1.767952,
+            "name": "Baildon Peace Sculpture"
+        },
+        {
+            "guid": "d01032aaca104f04b56a7575db2e3de6.16",
+            "lat": 53.844741,
+            "lng": -1.757497,
+            "name": "Charlestown Community Noticeboard"
+        },
+        {
+            "guid": "7882cf81391d42fd89c9288edb8301b4.16",
+            "lat": 53.844744,
+            "lng": -1.770237,
+            "name": "Baildon Community Bowling Green"
+        },
+        {
+            "guid": "65f1bb46a7bb4fd6a533c0dcbee783e4.16",
+            "lat": 53.844749,
+            "lng": -1.771004,
+            "name": "Baildon Community Basketball Court"
+        },
+        {
+            "guid": "e94b6de284e64d518572d659cacebde3.16",
+            "lat": 53.844781,
+            "lng": -1.734025,
+            "name": "Thackley Community Garden"
+        },
+        {
+            "guid": "56a8561b1d8540b6ae1d447978447e92.16",
+            "lat": 53.844823,
+            "lng": -1.734665,
+            "name": "Thackley Cricket Club"
+        },
+        {
+            "guid": "1ef548c2ce224d69b80c1776eb54e669.16",
+            "lat": 53.844946,
+            "lng": -1.737033,
+            "name": "Sunken Mile Stone"
+        },
+        {
+            "guid": "be3a2ea1936840a1a421613274b67d3c.16",
+            "lat": 53.845133,
+            "lng": -1.794592,
+            "name": "Shipley Glen Cable Tramway"
+        },
+        {
+            "guid": "3d013230b5874badba008934a6edeae6.16",
+            "lat": 53.845236,
+            "lng": -1.73161,
+            "name": "The Commercial Inn Thackley"
+        },
+        {
+            "guid": "c34c1983ec544bf5895017aae2e386f2.16",
+            "lat": 53.84526,
+            "lng": -1.758481,
+            "name": "Charlestown Playarea "
+        },
+        {
+            "guid": "ee2b012bda714420b646bac689f4ce4e.16",
+            "lat": 53.845523,
+            "lng": -1.754419,
+            "name": "The New Inn Pub"
+        },
+        {
+            "guid": "ea18cab8d6604968a556d91421a53208.16",
+            "lat": 53.845886,
+            "lng": -1.731983,
+            "name": "Ventilation shaft"
+        },
+        {
+            "guid": "cc15b18cd4df4071ad13a20d20831d9f.16",
+            "lat": 53.846115,
+            "lng": -1.74073,
+            "name": "Friends of Buckwood Information Board"
+        },
+        {
+            "guid": "f2e8bccc3df44f02855336ad6ede9b1c.16",
+            "lat": 53.846186,
+            "lng": -1.748882,
+            "name": "Denso marston info board#3"
+        },
+        {
+            "guid": "a49b2664b5fe449c96ea9b4e40cf7b34.16",
+            "lat": 53.846204,
+            "lng": -1.739194,
+            "name": "Vent shaft"
+        },
+        {
+            "guid": "584c34a9464149f89f30eddac34add68.16",
+            "lat": 53.846236,
+            "lng": -1.734383,
+            "name": "Buck Wood trail"
+        },
+        {
+            "guid": "abaff506b3b74aadbb1abcdf379559bd.16",
+            "lat": 53.846255,
+            "lng": -1.752068,
+            "name": "The Halfway House Pub and Restaurant"
+        },
+        {
+            "guid": "1fc6daf58d2f4aa5a4cc835a0f768dfb.16",
+            "lat": 53.84628,
+            "lng": -1.741254,
+            "name": "Ventilation shaft"
+        },
+        {
+            "guid": "0fcbaf06be104dc6b0fdbb57a77fbfa4.16",
+            "lat": 53.846334,
+            "lng": -1.748673,
+            "name": "Denso Marston Nature Reserve Information Board"
+        },
+        {
+            "guid": "f1271296537d464085e4340094dbe751.16",
+            "lat": 53.846414,
+            "lng": -1.735159,
+            "name": "Woodland vent shaft"
+        },
+        {
+            "guid": "fdc3b7b7ca284d1cbd5d15dfdc655ec6.16",
+            "lat": 53.846424,
+            "lng": -1.734473,
+            "name": "Thackley Entrance to Thackley Skills Park"
+        },
+        {
+            "guid": "95175469bc4742199d96333f9ff1eae9.16",
+            "lat": 53.846483,
+            "lng": -1.771612,
+            "name": "Baildon Peace Garden, Cliffe Avenue, Baildon"
+        },
+        {
+            "guid": "be1f47b0cdfd42cd8e07be67fbccce92.16",
+            "lat": 53.846502,
+            "lng": -1.747513,
+            "name": "Denso Marston Nature Reserve Information Board"
+        },
+        {
+            "guid": "bbfaeec34cff476685f4a80760ca5c42.16",
+            "lat": 53.846751,
+            "lng": -1.77167,
+            "name": "Cliffe Avenue Park Playground "
+        },
+        {
+            "guid": "41e5f92af902472ebb89efea06f0cf47.16",
+            "lat": 53.846804,
+            "lng": -1.747906,
+            "name": "Denso Marston Nature Reserve Stone Bench Plaque"
+        },
+        {
+            "guid": "41e43d2b4c2b4f6abec6d1acbcc5cdff.16",
+            "lat": 53.846904,
+            "lng": -1.751977,
+            "name": "St. James Church"
+        },
+        {
+            "guid": "6fb1fb01aca849cea1796c36d44870d9.16",
+            "lat": 53.846967,
+            "lng": -1.733897,
+            "name": "Thackley Amateur Football Club"
+        },
+        {
+            "guid": "1655fe4fded342eb8dae6aefa3c1de10.16",
+            "lat": 53.846974,
+            "lng": -1.73607,
+            "name": "School stone carving"
+        },
+        {
+            "guid": "272a341b5e6f42fe81cae5c2f7124011.16",
+            "lat": 53.847062,
+            "lng": -1.746989,
+            "name": "Denso Marston Nature Reserve Trail"
+        },
+        {
+            "guid": "01e69b0fa7e74504bf64c7ee09730c43.16",
+            "lat": 53.847165,
+            "lng": -1.771096,
+            "name": "Cliffe Avenue Park Shelter"
+        },
+        {
+            "guid": "a186528e758d4c509a7fcf03f3e7a678.16",
+            "lat": 53.847446,
+            "lng": -1.792414,
+            "name": "Lucy Hall Drive GR Pillarbox"
+        },
+        {
+            "guid": "c72acf54302d4df59f442279b18c2dea.16",
+            "lat": 53.847504,
+            "lng": -1.735732,
+            "name": "Thackley open air school site"
+        },
+        {
+            "guid": "d462a2a5c1e543d1a930cb41c4e3c072.16",
+            "lat": 53.847583,
+            "lng": -1.74328,
+            "name": "Leeds Liverpool Canal Milepost Marker"
+        },
+        {
+            "guid": "17ef147ef55549a6a1b0558ad1d58660.16",
+            "lat": 53.847691,
+            "lng": -1.770619,
+            "name": "Baildon Community Link"
+        },
+        {
+            "guid": "40813600e9ca4fac933d5f6ca54072d5.16",
+            "lat": 53.847922,
+            "lng": -1.742699,
+            "name": "Friends Of Buck Wood"
+        },
+        {
+            "guid": "f67c0d3c993e4bd6923f02c08a19844f.16",
+            "lat": 53.847947,
+            "lng": -1.735901,
+            "name": "Buck Wood Archaeological Site"
+        },
+        {
+            "guid": "a61567b1e0464ba58e1114f734c15a13.16",
+            "lat": 53.848046,
+            "lng": -1.734546,
+            "name": "Deer carving on rock"
+        },
+        {
+            "guid": "378ab9e7e2b84d5699dbafbcdcfbce5f.16",
+            "lat": 53.848112,
+            "lng": -1.734004,
+            "name": "Buck wood information board"
+        },
+        {
+            "guid": "ad3018080af14568bbd38ef8a444baaa.16",
+            "lat": 53.848217,
+            "lng": -1.73682,
+            "name": "Buck Wood Stone Spiral"
+        },
+        {
+            "guid": "7a2d7f8a76e844a09c65890e6db978b3.16",
+            "lat": 53.848521,
+            "lng": -1.774633,
+            "name": "Sandals Sports Fields"
+        },
+        {
+            "guid": "409142c5e18444ba86fc63e52f46c992.16",
+            "lat": 53.848538,
+            "lng": -1.738053,
+            "name": "Carved stone"
+        },
+        {
+            "guid": "eefe453cb63a4c92990673d11b11293b.16",
+            "lat": 53.848659,
+            "lng": -1.769672,
+            "name": "Sandals Old School Foundation Stone"
+        },
+        {
+            "guid": "8c8ca9d5f16d447fbe4195782cdd05e7.16",
+            "lat": 53.848661,
+            "lng": -1.744896,
+            "name": "Baildon & Idle Bridge AD 1889"
+        },
+        {
+            "guid": "b44c55b7e32c4aec8a5b6f9f397b209c.16",
+            "lat": 53.848815,
+            "lng": -1.738302,
+            "name": "Stone carving"
+        },
+        {
+            "guid": "b6a7e73a7eb0438880aef6f063e7054a.16",
+            "lat": 53.848985,
+            "lng": -1.766783,
+            "name": "Lower Baildon Post Office"
+        },
+        {
+            "guid": "48c7d41e6938493e83caeb051b2c7b1d.16",
+            "lat": 53.849476,
+            "lng": -1.738292,
+            "name": "Stone squirrel"
+        },
+        {
+            "guid": "42f9944d75c44ab187dab92db6744a72.16",
+            "lat": 53.849576,
+            "lng": -1.759511,
+            "name": "See no evil, hear no evil, speak no evil"
+        },
+        {
+            "guid": "edc0a1cc28be4d5bb670d41d43c91baa.16",
+            "lat": 53.849636,
+            "lng": -1.767721,
+            "name": "Baildon War Memorial and Nurses Home"
+        },
+        {
+            "guid": "d8100889778d489ea4e318f70cdc3e2f.16",
+            "lat": 53.849716,
+            "lng": -1.761039,
+            "name": "Brookhill Stores, Station Road, Baildon"
+        },
+        {
+            "guid": "727ba162a2a34373b45742fdf5390313.16",
+            "lat": 53.850135,
+            "lng": -1.765522,
+            "name": "Baildon Hall Club"
+        },
+        {
+            "guid": "aa071293c64b4fbf993f9cf346276746.16",
+            "lat": 53.850242,
+            "lng": -1.753746,
+            "name": "Baildon Train Station"
+        },
+        {
+            "guid": "d88a119fe042410d8f36ce60be936228.16",
+            "lat": 53.850312,
+            "lng": -1.774074,
+            "name": "Hope Lane GR Wallbox"
+        },
+        {
+            "guid": "0c59075c6a5e48faa9f541986a87d2ef.16",
+            "lat": 53.850407,
+            "lng": -1.73759,
+            "name": "Stone rabbit"
+        },
+        {
+            "guid": "17df88111e5c4de88541eb93202d73ca.16",
+            "lat": 53.850785,
+            "lng": -1.737232,
+            "name": "Latin stone carving"
+        },
+        {
+            "guid": "401837afe5504b5d8eb0bd1c97ce0085.16",
+            "lat": 53.851775,
+            "lng": -1.766037,
+            "name": "Baildon Old Primitive Methodist Chapel, Browgate, Baildon"
+        },
+        {
+            "guid": "f46f44cb5c8c4b7ca30d94bea5b24ef8.16",
+            "lat": 53.852298,
+            "lng": -1.746996,
+            "name": "Tong Park Playground"
+        },
+        {
+            "guid": "dfc1961ce5854c5aa18cf444a280b3a6.16",
+            "lat": 53.852403,
+            "lng": -1.767648,
+            "name": "Baildon Old Hall, Delph Hill"
+        },
+        {
+            "guid": "e20d81f753e24c27bda4e01d55877001.16",
+            "lat": 53.852429,
+            "lng": -1.770708,
+            "name": "Westgate Plaque 1935"
+        },
+        {
+            "guid": "235aecc26228455499aa0ffe4c4ece51.16",
+            "lat": 53.852498,
+            "lng": -1.766637,
+            "name": "Moravian Church"
+        },
+        {
+            "guid": "65e642b666194697a0c6612f64b398f8.16",
+            "lat": 53.852722,
+            "lng": -1.764591,
+            "name": "St Johns Obelisk "
+        },
+        {
+            "guid": "8b5f7394531145d48306f57b488d1acd.16",
+            "lat": 53.852748,
+            "lng": -1.766268,
+            "name": "Baildon Balti House Restaurant"
+        },
+        {
+            "guid": "516963ecbb3a4a1f94482e5b3758ad31.16",
+            "lat": 53.852845,
+            "lng": -1.765715,
+            "name": "Baildon Town Centre Information Board Ian Clough Hall"
+        },
+        {
+            "guid": "5a6cbd8fee754453b979ca5e01488cd6.16",
+            "lat": 53.852877,
+            "lng": -1.767753,
+            "name": "Baildon Methodist Sunday School (ex)"
+        },
+        {
+            "guid": "12687fc18bc24fc3b7431663d1822197.16",
+            "lat": 53.852886,
+            "lng": -1.787824,
+            "name": "The Millennium Way Trail Marker - Hope Gate"
+        },
+        {
+            "guid": "762371d3df614682a0da076528dd3c9c.16",
+            "lat": 53.852893,
+            "lng": -1.746309,
+            "name": "Old Tong Park School Foundation Stone"
+        },
+        {
+            "guid": "2b5001828ede4d9293e5821d0661c6ed.16",
+            "lat": 53.852901,
+            "lng": -1.764682,
+            "name": "St John's Church"
+        },
+        {
+            "guid": "b03b40c9c1bf48cfba30cd4d40c65b24.16",
+            "lat": 53.852957,
+            "lng": -1.766771,
+            "name": "The Bull's Head"
+        },
+        {
+            "guid": "c5f6f3cfbf8545dcb60c6de690459b95.16",
+            "lat": 53.853045,
+            "lng": -1.7644,
+            "name": "St John's Eagle"
+        },
+        {
+            "guid": "e3f33edd7b0b4d6fa4f56f77f5dc47b8.16",
+            "lat": 53.853102,
+            "lng": -1.76511,
+            "name": "Baildon Library"
+        },
+        {
+            "guid": "69eaab69f1584e3f93f8f7b0955b1b96.16",
+            "lat": 53.853139,
+            "lng": -1.765922,
+            "name": "Potted Meat Stick"
+        },
+        {
+            "guid": "3acb35ef10d3414381fd9299f7be5b6f.16",
+            "lat": 53.853152,
+            "lng": -1.766492,
+            "name": "Baildon Post Office"
+        },
+        {
+            "guid": "7d162e0e61ae4118b7360c1a1f714553.16",
+            "lat": 53.853157,
+            "lng": -1.766496,
+            "name": "Baildon Westgate GVIR Postbox"
+        },
+        {
+            "guid": "b7e436210b444db9b17d44087f46bab2.16",
+            "lat": 53.853215,
+            "lng": -1.76831,
+            "name": "Baildon Methodist Church"
+        },
+        {
+            "guid": "15f2e4d7a91a4db8ba0667037bec5c90.16",
+            "lat": 53.853233,
+            "lng": -1.765436,
+            "name": "The Baildon Club"
+        },
+        {
+            "guid": "aa171623a9ba41588cf923f7a978b90e.16",
+            "lat": 53.853258,
+            "lng": -1.763802,
+            "name": "Hallcliffe Community Garden"
+        },
+        {
+            "guid": "b4578e2c122348d1a97b9816098c33ae.16",
+            "lat": 53.853372,
+            "lng": -1.768088,
+            "name": "Wesleys Baildon Link"
+        },
+        {
+            "guid": "652e070c9ff444c9a90eea8867ad05e3.16",
+            "lat": 53.85345,
+            "lng": -1.744124,
+            "name": "Turnpike 5m/5m Milestone"
+        },
+        {
+            "guid": "b54e6443ff174f42a5c2351c6f457fd5.16",
+            "lat": 53.853459,
+            "lng": -1.763785,
+            "name": "The Bog Garden"
+        },
+        {
+            "guid": "3943c0a7cfdf44389728a953c068e5bd.16",
+            "lat": 53.853459,
+            "lng": -1.73892,
+            "name": "The Old Barn Esholt"
+        },
+        {
+            "guid": "693652e362044b52bd572fbe008a23d2.16",
+            "lat": 53.853612,
+            "lng": -1.765944,
+            "name": "Pickles at the Old Liberal Club"
+        },
+        {
+            "guid": "0efbedeee8384b709dbc6942076446f0.16",
+            "lat": 53.853664,
+            "lng": -1.73904,
+            "name": "Ghyll Beck driving range"
+        },
+        {
+            "guid": "b0a9b0ef184b493297e758fde11cd90e.16",
+            "lat": 53.853701,
+            "lng": -1.766253,
+            "name": "Stocks and Post"
+        },
+        {
+            "guid": "10d72fa3ad9941b3b7e083b24541117a.16",
+            "lat": 53.853723,
+            "lng": -1.768366,
+            "name": "Baildon Butterfield Homes"
+        },
+        {
+            "guid": "c60cb46b33b14026867284fe8dda4086.16",
+            "lat": 53.853785,
+            "lng": -1.764045,
+            "name": "Wildflower Meadow Wooden Frog"
+        },
+        {
+            "guid": "6c0a842c2ad7472a9f09a8d6725bf6a3.16",
+            "lat": 53.854083,
+            "lng": -1.766029,
+            "name": "The Malt Shovel"
+        },
+        {
+            "guid": "9e0fa98d6f7942fc8845bedc5712d7da.16",
+            "lat": 53.854154,
+            "lng": -1.766541,
+            "name": "Bobbling Well Built By Baildon Urban District Council 1933"
+        },
+        {
+            "guid": "b6f78c9ee1a34237960396a40a92b7a2.16",
+            "lat": 53.854198,
+            "lng": -1.743236,
+            "name": "Tong Park Public Footpath Trail Marker"
+        },
+        {
+            "guid": "b0189f1d5c35430286b6d5daecaf40e6.16",
+            "lat": 53.854272,
+            "lng": -1.765604,
+            "name": "The Copper Beech Club"
+        },
+        {
+            "guid": "dbd905548ae14be9b4012822c59e4066.16",
+            "lat": 53.854303,
+            "lng": -1.788839,
+            "name": "The Millennium Way Trail Marker - Moor Wall"
+        },
+        {
+            "guid": "57081c6fe0f643739b84abcedf31458b.16",
+            "lat": 53.854449,
+            "lng": -1.745973,
+            "name": "Baildon, The Old Methodist Chapel. Tong Park"
+        },
+        {
+            "guid": "c6d790f70cf447f4a66f050b2830da3d.16",
+            "lat": 53.854513,
+            "lng": -1.767227,
+            "name": "Baildon Old Mill 1823"
+        },
+        {
+            "guid": "c4512f514509468da054959bf6c66a65.16",
+            "lat": 53.854993,
+            "lng": -1.742005,
+            "name": "Baildon UDC Wharfedale RDC Stone"
+        },
+        {
+            "guid": "34f92735e59242eda6e1268f9336fb0e.16",
+            "lat": 53.855327,
+            "lng": -1.758364,
+            "name": "The Welcome Way Trail Marker - Ladderbanks Lane"
+        },
+        {
+            "guid": "2908d07ae18447dfa619b59a6995130f.16",
+            "lat": 53.855408,
+            "lng": -1.762752,
+            "name": "Baildon Playground"
+        },
+        {
+            "guid": "04de46f311a24530bdfc33b90077e8fb.16",
+            "lat": 53.855794,
+            "lng": -1.74948,
+            "name": "Tong Park Information Board"
+        },
+        {
+            "guid": "4dcf13fd6dd74f85b0f6c7f4689e8f2a.16",
+            "lat": 53.85616,
+            "lng": -1.791219,
+            "name": "The Millennium Way Trail Marker - Dobrudden Caravan Park"
+        },
+        {
+            "guid": "c67a003ebdd44b51b29e44b4d171f3c8.16",
+            "lat": 53.856308,
+            "lng": -1.769645,
+            "name": "Baildon Golf Club Bridge Centenary Plaque"
+        },
+        {
+            "guid": "24af128bec504978b2c72a19240b49a5.16",
+            "lat": 53.856338,
+            "lng": -1.768281,
+            "name": "The Shroggs"
+        },
+        {
+            "guid": "f93d5ce0974740329980e16b685e481b.16",
+            "lat": 53.856348,
+            "lng": -1.732036,
+            "name": "Esholt Sports & Leisure Club"
+        },
+        {
+            "guid": "fc608df2838d4fb59ae3308a2633ebf7.16",
+            "lat": 53.856427,
+            "lng": -1.769211,
+            "name": "Baildon Golf Club, Baildon Moor"
+        },
+        {
+            "guid": "faff3fee15d54e64b23664bf2a8d8bc2.16",
+            "lat": 53.856509,
+            "lng": -1.762196,
+            "name": "Baildon Rugby and Cricket Club"
+        },
+        {
+            "guid": "0dc02a4df21e414e87cacbcdcd6d6adf.16",
+            "lat": 53.856516,
+            "lng": -1.769825,
+            "name": "Baildon Moor Welcome Way Trail Marker"
+        },
+        {
+            "guid": "298af9d8b2ba4965a919bbf68303fa42.16",
+            "lat": 53.856519,
+            "lng": -1.768722,
+            "name": "The Millennium Way Trail Marker - Moor Directional Sign"
+        },
+        {
+            "guid": "61b8262cc2c2475a892526a27b951560.16",
+            "lat": 53.856733,
+            "lng": -1.786805,
+            "name": "Baildon Moor Trig Point"
+        },
+        {
+            "guid": "8b97ea4be7fe4650be512d0c5cb774c7.16",
+            "lat": 53.856795,
+            "lng": -1.749799,
+            "name": "Tong Park Memorial"
+        },
+        {
+            "guid": "3a258e1fb76d46df858f639038b8a2b4.16",
+            "lat": 53.857318,
+            "lng": -1.753717,
+            "name": "The Welcome Way Trail Marker - Exit of Baildon"
+        },
+        {
+            "guid": "e22000ad3d894b0caa624cd096e3699b.16",
+            "lat": 53.858058,
+            "lng": -1.751931,
+            "name": "The Welcome Way Trail Marker - Tong Cricket Club"
+        },
+        {
+            "guid": "f9d1b99336514388ad28f8b35b0107e5.16",
+            "lat": 53.859051,
+            "lng": -1.751144,
+            "name": "The Welcome Way Trail Marker - Hollins Golf Club Entrance"
+        },
+        {
+            "guid": "816459b16b2046e3b3e2c9f8d28e370a.16",
+            "lat": 53.859054,
+            "lng": -1.75359,
+            "name": "Baildon, Tong Park Cricket Club"
+        },
+        {
+            "guid": "836fcf0de34245af8d2149c5fd902ed2.16",
+            "lat": 53.859205,
+            "lng": -1.735775,
+            "name": "The Welcome Way - Hollins Hill"
+        },
+        {
+            "guid": "2aaffc50bf2448dfadadc4bdadb11a03.16",
+            "lat": 53.860357,
+            "lng": -1.76797,
+            "name": "Baildon Moor Common Trigpoint"
+        },
+        {
+            "guid": "ce373db2da2f4c988c4665263d9d5239.16",
+            "lat": 53.862109,
+            "lng": -1.734322,
+            "name": "Hollins Hall Hotel, Golf & Country Club "
+        },
+        {
+            "guid": "d5efa94fb0034064a8817b4a55afd11a.16",
+            "lat": 53.868931,
+            "lng": -1.736931,
+            "name": "The Bradford Golf Club, Hawksworth"
+        },
+        {
+            "guid": "1a1212c008cf438c8ef7d02a0766f115.16",
+            "lat": 53.871681,
+            "lng": -1.7473,
+            "name": "Hawksworth village welcome marker"
+        },
+        {
+            "guid": "6b18ab2aed074c108e710851eadb7497.11",
+            "lat": 53.872867,
+            "lng": -1.752091,
+            "name": "Hawksworth Methodist Church"
+        },
+        {
+            "guid": "daf149d8d8a24f46a3eb58143cddb843.16",
+            "lat": 53.87604,
+            "lng": -1.794259,
+            "name": "Weecher Model Sailing Club and Reservoir"
+        },
+        {
+            "guid": "2a7ca23e49a04cf38999eb11e7bdd5e9.16",
+            "lat": 53.876331,
+            "lng": -1.757778,
+            "name": "Viewing Plaque, Hillings Lane, Hawksworth"
+        },
+        {
+            "guid": "7a97e07426db4fd5b9ecbb2eea4c38fb.16",
+            "lat": 53.880477,
+            "lng": -1.794773,
+            "name": "Baildon Boundary Stone"
+        },
+        {
+            "guid": "25ddc339dbb8484ea759c2020a95e106.16",
+            "lat": 53.881793,
+            "lng": -1.734776,
+            "name": "High Royds"
+        },
+        {
+            "guid": "0cd7aa6739cd48289dc9d86e7bc217ad.16",
+            "lat": 53.884334,
+            "lng": -1.73118,
+            "name": "High Royds Drive Tennis Courts"
+        },
+        {
+            "guid": "ff6e87ec298943c08c37270f392c004e.16",
+            "lat": 53.886753,
+            "lng": -1.730169,
+            "name": "The Hare & Hounds"
+        },
+        {
+            "guid": "f9fcff1deaff40c88068f5fbad60ac8e.16",
+            "lat": 53.886945,
+            "lng": -1.732935,
+            "name": "Menston Recreation Ground South Entrance"
+        },
+        {
+            "guid": "eedffb0b9ded4b0a8675daf2a34ae4ef.16",
+            "lat": 53.887341,
+            "lng": -1.734724,
+            "name": "Menston Skate Park"
+        },
+        {
+            "guid": "ed8418feb4564d95950bd2ad52703304.16",
+            "lat": 53.88777,
+            "lng": -1.733099,
+            "name": "Menston Park Tennis Courts"
+        },
+        {
+            "guid": "147f63ac78a946aa897f904e02d398a1.16",
+            "lat": 53.888059,
+            "lng": -1.735125,
+            "name": "Menston Recreation Ground Playground"
+        },
+        {
+            "guid": "8401e35e294a4ea9b0fa5e4f2f2f906f.16",
+            "lat": 53.88832,
+            "lng": -1.735676,
+            "name": "Menston Recreation Ground West Entrance"
+        },
+        {
+            "guid": "4c51cfe620184b618c4f9b2117d2550f.16",
+            "lat": 53.888643,
+            "lng": -1.733236,
+            "name": "Menston Recreation Ground Sports Pitch"
+        },
+        {
+            "guid": "8e0481b6a3b74edf821745d02c9b9b77.16",
+            "lat": 53.888814,
+            "lng": -1.732701,
+            "name": "Menston Recreation Ground North Entrance"
+        },
+        {
+            "guid": "d44b88a212c240e1a498ff1c6bb935a8.16",
+            "lat": 53.888852,
+            "lng": -1.737313,
+            "name": "Cleasby Road Post Office"
+        },
+        {
+            "guid": "4595ce5c874e43d8900f2edb40600520.16",
+            "lat": 53.889315,
+            "lng": -1.739284,
+            "name": "Menston War Memorial Stone"
+        },
+        {
+            "guid": "0e84dcbe012a4555bef2c7d41a1340e3.16",
+            "lat": 53.889388,
+            "lng": -1.739602,
+            "name": "Menston Library"
+        },
+        {
+            "guid": "f3451c116fed4435ab3fe44481d39db7.16",
+            "lat": 53.889572,
+            "lng": -1.736977,
+            "name": "Porritt's Field"
+        },
+        {
+            "guid": "91fbce8954904330a899cc222f988c54.16",
+            "lat": 53.89075,
+            "lng": -1.744577,
+            "name": "Menston Post Office"
+        },
+        {
+            "guid": "c1d61f2834a744baacb507d2f65f3bb5.16",
+            "lat": 53.890949,
+            "lng": -1.745053,
+            "name": "Menston Methodist Church"
+        },
+        {
+            "guid": "be9a7911312d4117af4be175553f27d9.16",
+            "lat": 53.891133,
+            "lng": -1.745747,
+            "name": "Malt Shovel Inn"
+        },
+        {
+            "guid": "6d71eea5fcf244a2a5f2ef2dcd72effb.16",
+            "lat": 53.891389,
+            "lng": -1.746311,
+            "name": "Menston Arms Public House"
+        },
+        {
+            "guid": "161214769125460f8fc21feaadc07d8e.16",
+            "lat": 53.892015,
+            "lng": -1.745413,
+            "name": "Menston Parish Church "
+        },
+        {
+            "guid": "7812d7c91a5c471fb996b1cb0411bf0b.16",
+            "lat": 53.892076,
+            "lng": -1.749052,
+            "name": "Butterfield Park"
+        },
+        {
+            "guid": "6246010f6981426bb277f3f2e812dd0d.16",
+            "lat": 53.892304,
+            "lng": -1.735496,
+            "name": "Menston Train Station"
+        },
+        {
+            "guid": "1d0c4187e71d4dd38dc72366680d1e49.16",
+            "lat": 53.892843,
+            "lng": -1.731933,
+            "name": "The Fox"
+        },
+        {
+            "guid": "e71746ce241449e8b21e8cb9377ee9d9.16",
+            "lat": 53.893563,
+            "lng": -1.732582,
+            "name": "Church of Jesus Christ of Latter Day Saints Menston"
+        },
+        {
+            "guid": "c7d1e31a85fc4a11932618b63311797f.16",
+            "lat": 53.895591,
+            "lng": -1.735907,
+            "name": "King George V Postbox"
+        },
+        {
+            "guid": "ac958dc4ad6f4a039216d62f0c6d7409.16",
+            "lat": 53.896404,
+            "lng": -1.730589,
+            "name": "Otley Stone"
+        },
+        {
+            "guid": "01a3e8a75baf48feaf9effb25a813606.16",
+            "lat": 53.898942,
+            "lng": -1.739668,
+            "name": "Menston/Burley Checkpoint Marker Stone"
+        },
+        {
+            "guid": "2147ce3244404761a55061b07200284b.16",
+            "lat": 53.899296,
+            "lng": -1.767188,
+            "name": "The Hermit"
+        },
+        {
+            "guid": "8dc822a95a3c464dac01152e07cdef8d.16",
+            "lat": 53.899429,
+            "lng": -1.739779,
+            "name": "Burley in Wharfedale God's Acre Cemetery"
+        },
+        {
+            "guid": "6d4c864aebfd4b61b187bc9c45c4b390.16",
+            "lat": 53.900237,
+            "lng": -1.78656,
+            "name": "Millennium Way Waypoint"
+        },
+        {
+            "guid": "6ec2db85cdfb4db88cac8d0ef9697545.16",
+            "lat": 53.902116,
+            "lng": -1.768176,
+            "name": "Burley Woodhead Village Stone"
+        },
+        {
+            "guid": "a87f3e509dd2492486d12921f6bbd61c.16",
+            "lat": 53.904942,
+            "lng": -1.743159,
+            "name": "King Edward VII Postbox"
+        },
+        {
+            "guid": "49403a2792284ed7aafca6f3c4fa1a40.16",
+            "lat": 53.905526,
+            "lng": -1.743538,
+            "name": "St John Fisher and Thomas Moore Catholic Church"
+        },
+        {
+            "guid": "d1a238fa6b0d44408f656024b56f5d64.16",
+            "lat": 53.906695,
+            "lng": -1.760332,
+            "name": "Scalebor Park Pitches"
+        },
+        {
+            "guid": "4a238e485f67466fa5591210fa3ccc58.16",
+            "lat": 53.907924,
+            "lng": -1.75927,
+            "name": "Clock Tower at Scalebor Park"
+        },
+        {
+            "guid": "cad6c6b8b59b4758a62ba4a112175e6e.16",
+            "lat": 53.908159,
+            "lng": -1.75327,
+            "name": "Burley in Wharfedale Railway Station"
+        },
+        {
+            "guid": "080b510789704f0fbd51f89dda63ca99.11",
+            "lat": 53.908512,
+            "lng": -1.759946,
+            "name": "Sculpture at Scalebor Square"
+        },
+        {
+            "guid": "03962da225be497298d1667567b5da17.16",
+            "lat": 53.908876,
+            "lng": -1.742921,
+            "name": "Ye Olde Pump"
+        },
+        {
+            "guid": "ec85b9fc3a0c4cf68adddebb17d584bf.16",
+            "lat": 53.908886,
+            "lng": -1.753746,
+            "name": "George V Postbox"
+        },
+        {
+            "guid": "74d006f9a6ec4ae895209f459defa2fa.16",
+            "lat": 53.910388,
+            "lng": -1.743103,
+            "name": "Burley House Field"
+        },
+        {
+            "guid": "87001febe4a84972a064a1efde03676e.16",
+            "lat": 53.911333,
+            "lng": -1.749506,
+            "name": "Burley Cricket Club Pavilion"
+        },
+        {
+            "guid": "b3faafeeaef44f8390701d2f8c67b43a.16",
+            "lat": 53.911897,
+            "lng": -1.7424,
+            "name": "Burley Village Green"
+        },
+        {
+            "guid": "55b5c971f7ea4472ae94a936543c0570.16",
+            "lat": 53.912077,
+            "lng": -1.742028,
+            "name": "Canadian Soldiers Memorial"
+        },
+        {
+            "guid": "de1d4efb58ae429a8c091023a4d0d304.16",
+            "lat": 53.912261,
+            "lng": -1.743209,
+            "name": "The Burley Fountain"
+        },
+        {
+            "guid": "621450e829474ba2bf8db62654eb8b5d.16",
+            "lat": 53.912268,
+            "lng": -1.743696,
+            "name": "Burley-in-Wharfedale Village Green"
+        },
+        {
+            "guid": "49621d2891574afe8f762511b6445910.16",
+            "lat": 53.912285,
+            "lng": -1.749562,
+            "name": "Burley Cricket Club Grounds"
+        },
+        {
+            "guid": "df68e6d0c7b84886b57589b0e5a65b1c.11",
+            "lat": 53.912321,
+            "lng": -1.741927,
+            "name": "Pudding Tree Garden"
+        },
+        {
+            "guid": "9e439a45daf34001ac9fc497cbdce3f6.16",
+            "lat": 53.912377,
+            "lng": -1.742893,
+            "name": "Burley-In-Wharfdale Village Map"
+        },
+        {
+            "guid": "d03bced79b50417c9e3e672a194e0ff9.16",
+            "lat": 53.912388,
+            "lng": -1.742263,
+            "name": "The Malt Shovel Hotel"
+        },
+        {
+            "guid": "04f02c20e921466d8e7ae6f8b5ca2613.16",
+            "lat": 53.91242,
+            "lng": -1.748608,
+            "name": "Grange Park"
+        },
+        {
+            "guid": "f0a397561ed649a6896df6726a291920.16",
+            "lat": 53.912429,
+            "lng": -1.748941,
+            "name": "Burley In Whafdale Bowling Green"
+        },
+        {
+            "guid": "7629449d61414e6092ba5fe172022989.11",
+            "lat": 53.912431,
+            "lng": -1.741569,
+            "name": "Parish Church of St. Mary"
+        },
+        {
+            "guid": "c2b6779d636b40e8b8eaf895d18543e0.16",
+            "lat": 53.912459,
+            "lng": -1.749985,
+            "name": "Burley-in-Wharfedale Library"
+        },
+        {
+            "guid": "6964487bc8974d1c9e9c274764d9d1c0.16",
+            "lat": 53.912533,
+            "lng": -1.749538,
+            "name": "The Postlethwaite Pavilion"
+        },
+        {
+            "guid": "890af400a32e4a59b8f22f176f4efb48.16",
+            "lat": 53.912557,
+            "lng": -1.743178,
+            "name": "Burley History Plaque"
+        },
+        {
+            "guid": "2b9ec86c1c99439a90e34648ada4604a.16",
+            "lat": 53.912631,
+            "lng": -1.743502,
+            "name": "Otley - Skipton Milepost, Burley-in-Wharfedale"
+        },
+        {
+            "guid": "d9ccb9f7398f441ea6e2eb83304ebf8a.16",
+            "lat": 53.912636,
+            "lng": -1.750755,
+            "name": "Burley In Wharfedale, St Mary's Parish Centre"
+        },
+        {
+            "guid": "ed69864080df433eab9d9ca9b6c7de2b.16",
+            "lat": 53.91268,
+            "lng": -1.750926,
+            "name": "Burley-in-Wharfedale Post Office"
+        },
+        {
+            "guid": "3b2c5a94757b4a35bbf8e6ceaabf1285.16",
+            "lat": 53.912712,
+            "lng": -1.744808,
+            "name": "Burley Methodist Church"
+        },
+        {
+            "guid": "c951ea304fd144c4a298b1754bc4f3e9.16",
+            "lat": 53.912991,
+            "lng": -1.748905,
+            "name": "Water Feature"
+        },
+        {
+            "guid": "8b967755188d4433aa814a67f5215b8d.16",
+            "lat": 53.913045,
+            "lng": -1.74823,
+            "name": "Burley In Wharfedale Park "
+        },
+        {
+            "guid": "bc9fb326f32f4c39972fd9658aeeb58c.16",
+            "lat": 53.913103,
+            "lng": -1.746552,
+            "name": "The Lawn"
+        },
+        {
+            "guid": "c78a052a19ae4b29aa8c4d1934ea8139.16",
+            "lat": 53.913288,
+            "lng": -1.746783,
+            "name": "Burley History Trail"
+        },
+        {
+            "guid": "d99cfd327a064f2dbe3d1e3d425f94ed.16",
+            "lat": 53.913302,
+            "lng": -1.743636,
+            "name": "Burley Thomas Clark Memorial"
+        },
+        {
+            "guid": "3ecaa207ac264f6fb8fae98be1cad219.16",
+            "lat": 53.913309,
+            "lng": -1.747981,
+            "name": "Salem Church Hall"
+        },
+        {
+            "guid": "9cdd3885d6834f2abffc58ff1fba9d7d.11",
+            "lat": 53.91345,
+            "lng": -1.749396,
+            "name": "The Roundhouse"
+        },
+        {
+            "guid": "46f84802b51b4a988935bef981a0eb80.11",
+            "lat": 53.913472,
+            "lng": -1.749751,
+            "name": "The College at the Grange"
+        },
+        {
+            "guid": "8cc768223df741cfb54b7c0876a7f8b1.16",
+            "lat": 53.913509,
+            "lng": -1.74882,
+            "name": "United Reformed Church Burley in Wharfedale"
+        },
+        {
+            "guid": "8946c99268d64374a5a40521d6d9b22b.11",
+            "lat": 53.913517,
+            "lng": -1.747893,
+            "name": "The Queens Hall, Burley in Wharfedale"
+        },
+        {
+            "guid": "0462902ac28649608412cc4c9f3081c3.16",
+            "lat": 53.913564,
+            "lng": -1.748197,
+            "name": "Forster Memorial"
+        },
+        {
+            "guid": "af9653d3efdc4ba3bf6df212e0cd2129.16",
+            "lat": 53.913734,
+            "lng": -1.74896,
+            "name": "Red Lion Burley in Wharfedale"
+        },
+        {
+            "guid": "b612ed5d72394dac97f31da725378567.11",
+            "lat": 53.913744,
+            "lng": -1.750216,
+            "name": "The Fountain of Life"
+        },
+        {
+            "guid": "96754d0de6754228a39da82153770a16.16",
+            "lat": 53.913824,
+            "lng": -1.750554,
+            "name": "The White Horse Pub"
+        },
+        {
+            "guid": "79ffa9aa8cba4d20940fc004e0398e1b.16",
+            "lat": 53.913953,
+            "lng": -1.752356,
+            "name": "Burley In Whafdale Social Club"
+        },
+        {
+            "guid": "2dca2eead64646bd91146b8e7305c6ed.16",
+            "lat": 53.914024,
+            "lng": -1.743111,
+            "name": "Burley Skate Park"
+        },
+        {
+            "guid": "c02b23a205094ad78f9637cfde38659a.16",
+            "lat": 53.914391,
+            "lng": -1.751895,
+            "name": "Old Sundial 1785"
+        },
+        {
+            "guid": "20d23af4d445489cb9da39b3daf8d791.16",
+            "lat": 53.914419,
+            "lng": -1.752326,
+            "name": "The Jubilee Garden"
+        },
+        {
+            "guid": "0e1f39815b794b07be8bf463bb4a3a73.16",
+            "lat": 53.91515,
+            "lng": -1.762413,
+            "name": "Sun Lane Nature Reserve "
+        },
+        {
+            "guid": "2d003e84ff684fb5902ca6f7301e5a1c.16",
+            "lat": 53.915205,
+            "lng": -1.750308,
+            "name": "Burley In Wharfedale Scout And Guide's"
+        },
+        {
+            "guid": "c865059dd09947bc96ba1f5e485499e3.16",
+            "lat": 53.915464,
+            "lng": -1.731546,
+            "name": "All Saints Church"
+        },
+        {
+            "guid": "91d4be07aaf9415ebc0c0271f47943d8.16",
+            "lat": 53.915666,
+            "lng": -1.73189,
+            "name": "Robin Cowgill Memorial Notice Board"
+        },
+        {
+            "guid": "1326943541c74a5d855584947bb9800d.16",
+            "lat": 53.9169,
+            "lng": -1.755741,
+            "name": "Welcome To Burley In Wharfedale"
+        },
+        {
+            "guid": "13334e710a6d44db92bc4421a87c4455.16",
+            "lat": 53.91788,
+            "lng": -1.755518,
+            "name": "Generous Pioneer"
+        },
+        {
+            "guid": "a9e68beef38846c3814dfa882ed08ebc.16",
+            "lat": 53.92252,
+            "lng": -1.74925,
+            "name": "Burley Stepping Stones"
+        },
+        {
+            "guid": "5f68b57227544cae961a7e9d89c22357.16",
+            "lat": 53.925756,
+            "lng": -1.782246,
+            "name": "Ben Rhydding Nature Reserve. "
+        },
+        {
+            "guid": "3c009b6c32754519b6a61f66b36f8f17.16",
+            "lat": 53.928143,
+            "lng": -1.788215,
+            "name": "Ben Rhydding Sports Club"
+        },
+        {
+            "guid": "4516e88039ad4694ab7f7c73d89dbd7b.16",
+            "lat": 53.9287,
+            "lng": -1.789922,
+            "name": "Ben Rhydding Cricket Nets"
+        },
+        {
+            "guid": "0db2468576f1414e9d10479f5f20a127.16",
+            "lat": 53.928732,
+            "lng": -1.790684,
+            "name": "Ben Rhydding Bowles Club"
+        },
+        {
+            "guid": "07c4f71e892849068630c1eb86056a6f.16",
+            "lat": 53.930634,
+            "lng": -1.745852,
+            "name": "Askwith Arms "
+        },
+        {
+            "guid": "4e4bb12285404d9eb318fc5776a9a851.16",
+            "lat": 53.931235,
+            "lng": -1.7431,
+            "name": "Askwith Village Hall"
+        },
+        {
+            "guid": "0bb56e26dc8e4f318b8381a9ddb4377e.16",
+            "lat": 53.936178,
+            "lng": -1.781009,
+            "name": "St Helen's Church, Denton, near Ilkley"
+        },
+        {
+            "guid": "b5027061c0774c53b4b3426412ce6a76.16",
+            "lat": 53.936845,
+            "lng": -1.78331,
+            "name": "Really Big Top"
+        },
+        {
+            "guid": "bbf5abb8476d4c119eeafea20162201a.16",
+            "lat": 53.993221,
+            "lng": -1.745457,
+            "name": "St. Andrews Church"
+        },
+        {
+            "guid": "8c09431170f64ecbb65509546a8d18aa.16",
+            "lat": 53.993638,
+            "lng": -1.744241,
+            "name": "Welcome to Blubberhouses Sign"
+        },
+        {
+            "guid": "d4290ea66ce04ffaa0ad1663adfc4c75.16",
+            "lat": 53.993725,
+            "lng": -1.743604,
+            "name": "Fewston Reservoir Visitor Guide"
+        }
+    ]
+}
